@@ -27,7 +27,7 @@ Los científicos de datos profesionales hacen esto docenas de veces al día. ¡U
 
 ## Resumen de funciones y maps
 Extraiga conocimientos de sus datos.
-- **Descripción:** En el último tutorial, aprendimos cómo seleccionar datos relevantes de un marco de datos o una serie. Extraer los datos correctos de nuestra representación de datos es fundamental para realizar el trabajo, como demostramos en los ejercicios.
+- **Descripción:** En el último tutorial, aprendimos cómo seleccionar datos relevantes de un DataFrame o una serie. Extraer los datos correctos de nuestra representación de datos es fundamental para realizar el trabajo, como demostramos en los ejercicios.
 
     Sin embargo, los datos no siempre salen de la memoria en el formato que queremos desde el principio. A veces tenemos que hacer un poco más de trabajo nosotros mismos para reformatearlo para la tarea en cuestión. Este tutorial cubrirá diferentes operaciones que podemos aplicar a nuestros datos para obtener la entrada "correcta".
 - **Duración:** 1 hora
@@ -52,7 +52,7 @@ Los mapas nos permiten transformar datos en un DataFrame o Serie un valor a la v
         - *idioma:* Inglés
 ## Tipos de datos y valores faltantes
 Lidiar con los problemas de bloqueo de progreso más comunes
-- **Descripción:** En este tutorial, aprenderá a investigar los tipos de datos dentro de un marco de datos o una serie. También aprenderá a buscar y reemplazar entradas.
+- **Descripción:** En este tutorial, aprenderá a investigar los tipos de datos dentro de un DataFrame o una serie. También aprenderá a buscar y reemplazar entradas.
 - **Duración:** 1 hora 
 - **Modalidad:** 
     - [Lectura - Kaggle](https://www.kaggle.com/code/residentmario/data-types-and-missing-values)
