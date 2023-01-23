@@ -31,7 +31,7 @@
     - Scipy
 
     
-# [**Pandas**](./Pandas.md)
+# [**Pandas**](https://github.com/JoseMVergara/Ruta_de_aprendizaje_ML/blob/main/Pandas.md)
 - Crear, leer y escribir
 - Indexación, selección y asignación
 - Resumen de funciones y maps
