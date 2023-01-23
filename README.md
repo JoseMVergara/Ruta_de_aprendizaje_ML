@@ -2,11 +2,11 @@
 
 | Nombre | Duración | Descripción |
 | ----------- | ----------- | ---------- |
-| [Estadística](#estadística) | x horas | > **Warning** [En construcción]   |
-| [Introducción a la programación en Python](#introducción-a-la-programación-en-python) | x horas | > **Warning** [En construcción]  |
+| [Estadística](#estadística) | x horas | [En construcción]  |
+| [Introducción a la programación en Python](#introducción-a-la-programación-en-python) | x horas |[En construcción]   |
 | [Pandas](#pandas) | 6 horas | Aprenderás todo sobre pandas, la biblioteca de Python más popular para el análisis de datos.  |
-| [Introducción al machine learning](#introducción-al-machine-learning) | x horas |> **Warning** [En construcción]   |
-| [Machine learning intermedio](#machine-learning-intermedio) | x horas |> **Warning** [En construcción]   |
+| [Introducción al machine learning](#introducción-al-machine-learning) | x horas |[En construcción]   |
+| [Machine learning intermedio](#machine-learning-intermedio) | x horas |[En construcción]   |
 
 
 
