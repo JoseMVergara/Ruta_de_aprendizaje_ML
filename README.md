@@ -35,6 +35,36 @@
 
 # **Python**
 
+## **Contenido Python**
+> **Warning** [En construcción] 
+
+
+
+- Aritmetica y variables 
+    - Función print
+    - Aritmética y operadores
+    - Variables
+        - Creación de variables
+        - Reglas para nombres de variables
+    - Manipulación de variables
+    - Tipos de datos
+        - Enteros (Integers)
+        - Punto Flotante (Float)
+        - dato lógico (Booleano)
+        - cadena de texto (string)
+        - Listas , tuplas y conjuntos
+        - Diccionarios
+- Condicionales
+- Funciones
+- Ciclos
+- Trabajo con librerias externas
+    - Math	
+    - Numpy
+    - Seaborn
+    - Matplotlib
+    - Scipy
+
+
 ## [**Introducción a la programación en Python - Kaggle**](https://github.com/JoseMVergara/Ruta_de_aprendizaje_ML/blob/main/introduccion_programacion_kaggle.md)
 - **Descripción:** Comience con Python, si no tiene experiencia en codificación.
 - **Duración:** 5 horas
@@ -68,34 +98,6 @@
     - [Uso de librerías para graficas](https://bancolombia.sharepoint.com.mcas.ms/sites/co-vsti/SitePages/skill-hacking-rutas-de-conocimiento-lenguajes-python.aspx#uso-de-librer%C3%ADas-para-graficar-(video))
     - [Uso de librería Numpy y conexión a base de datos](https://bancolombia.sharepoint.com.mcas.ms/sites/co-vsti/SitePages/skill-hacking-rutas-de-conocimiento-lenguajes-python.aspx#uso-de-librer%C3%ADa-numpy-y-conexi%C3%B3n-a-base-de-datos-(video))
 
-<!-- ## **Introducción a la programación en Python**
-> **Warning** [En construcción]  -->
-
-
-
-<!-- - Aritmetica y variables 
-    - Función print
-    - Aritmética y operadores
-    - Variables
-        - Creación de variables
-        - Reglas para nombres de variables
-    - Manipulación de variables
-    - Tipos de datos
-        - Enteros (Integers)
-        - Punto Flotante (Float)
-        - dato lógico (Booleano)
-        - cadena de texto (string)
-        - Listas , tuplas y conjuntos
-        - Diccionarios
-- Condicionales
-- Funciones
-- Ciclos
-- Trabajo con librerias externas
-    - Math	
-    - Numpy
-    - Seaborn
-    - Matplotlib
-    - Scipy -->
 
 # **Pandas**
     
@@ -136,3 +138,4 @@
 - Machine learning supervisado
 - Machine learning no supervisado
 - Series de tiempo
+
