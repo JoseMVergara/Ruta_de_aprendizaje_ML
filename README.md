@@ -14,8 +14,8 @@
 |[01-Estadística](#estadística) | x horas| Estimadores de las principales medidas estadísticas| [En construcción]|-||
 |[01-Estadística](#estadística) | x horas|Distribuciones principales| [En construcción]|-||
 |[01-Estadística](#estadística) | x horas| Modelo lineal / regresión lineal| [En construcción]|-||
-|[02-Python](#python)|18 horas|[Python básico](#python-básico---skill-hacking)|[En construcción]|Skill hacking|Video|
 |[02-Python](#python)|5 horas|[Introducción a la programación en Python](#introducción-a-la-programación-en-python---kaggle)|Este curso es para usted **si nunca ha escrito una sola línea de código** y está interesado en aprender ciencia de datos y aprendizaje automático. En este curso, aprenderá a usar código para que una computadora realice ciertas tareas por usted. |Kaggle|Lectura y posibilidad de ejecutar tu propio código en Kaggle|
+|[02-Python](#python)|18 horas|[Python básico](#python-básico---skill-hacking)|[En construcción]|Skill hacking|Video|
 |[03-Pandas](#pandas)|6 horas|[Aprende todos los fundamentas de Pandas](https://github.com/JoseMVergara/Ruta_de_aprendizaje_ML/blob/main/Pandas.md#crear-leer-y-escribir)|Aprenderá a crear sus propios datos y a trabajar con datos que ya existen, seleccionar valores específicos, transformar los datos, agruparlos, reemplazarlos y utilizar funciones. Kaggle|Kaggle | Lectura y posibilidad de ejecutar tu propio código en Kaggle|
 
 
