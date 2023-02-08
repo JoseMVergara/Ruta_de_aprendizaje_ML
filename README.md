@@ -27,11 +27,6 @@
 ||||||| -->
 
 <!-- #https://github.com/microsoft/ML-For-Beginners -->
-# **Estadística**
-> **Warning** [En construcción] 
-- Estimadores de las principales medidas estadísticas
-- Distribuciones principales
-- Modelo lineal / regresión lineal
 
 # **Python**
 
@@ -63,6 +58,7 @@
     - Seaborn
     - Matplotlib
     - Scipy
+
 
 
 ## [**Introducción a la programación en Python - Kaggle**](https://github.com/JoseMVergara/Ruta_de_aprendizaje_ML/blob/main/introduccion_programacion_kaggle.md)
@@ -118,6 +114,23 @@
     - [Tipos de datos y valores faltantes](https://github.com/JoseMVergara/Ruta_de_aprendizaje_ML/blob/main/Pandas.md#tipos-de-datos-y-valores-faltantes)
     - [Renombrar y combinar](https://github.com/JoseMVergara/Ruta_de_aprendizaje_ML/blob/main/Pandas.md#renombrar-y-combinar)
 
+
+# **Estadística**
+
+## [**Estadística para Machine Learning & Inteligencia Artificial - Estrategía e Innovación de TI**](https://colab.research.google.com/drive/1WvfS89MGms-tvwVRXzRCOTpCBmiHJaaN?usp=sharing)
+
+- **Descripción:** Estadística y teoría de probabilidad son dos áreas matematícas altamente relacionadas con la Ciencia de datos. Aunque es posible operar datos sin tener un conocimiento profundo en matemáticas, es mejor conocer al menos unos conceptos básicos que ayudarán a la toma de decisiones durante todo el proceso de análisis.
+- **Duración:** 1 hora
+- **idioma:** Español
+- **Modalidad:**
+    - Lectura
+    - Explorar y ejecutar tu propio código en Google Colab
+- **Contenido:**
+    - [Probabilidad y variables aleatorias](https://colab.research.google.com/drive/1WvfS89MGms-tvwVRXzRCOTpCBmiHJaaN#scrollTo=_zsQMbEglxCQ&line=1&uniqifier=1)
+    - [Distribuciones de probabilidad y principales medidas](https://colab.research.google.com/drive/1WvfS89MGms-tvwVRXzRCOTpCBmiHJaaN#scrollTo=zVAZB6X9l8eJ) 
+    - [Covarianza y correlación](https://colab.research.google.com/drive/1WvfS89MGms-tvwVRXzRCOTpCBmiHJaaN#scrollTo=Y-sSfyEgmj8d)
+    - [Ejercicio práctico de conceptos aprendidos](https://colab.research.google.com/drive/1WvfS89MGms-tvwVRXzRCOTpCBmiHJaaN#scrollTo=60laiEpK-EsO)
+
 # Que es un dato, etc
 
 # **Machine Learning**
@@ -125,7 +138,7 @@
 ## [**Introducción al machine learning**](https://github.com/JoseMVergara/Ruta_de_aprendizaje_ML/blob/main/Intro_ML.md)
 - **Descripción:** Conozca las ideas principales del aprendizaje automático y cree sus primeros modelos.
 
-- **Duración:**  horas
+- **Duración:** 5 horas
 - **Idioma:** Inglés
 - **Modalidad:**
     - Lectura
@@ -139,14 +152,39 @@
     - [Subajuste y sobreajuste (underfitting - overfitting)](https://github.com/JoseMVergara/Ruta_de_aprendizaje_ML/blob/main/Intro_ML.md#subajuste-y-sobreajuste-underfitting---overfitting)
 
 
-## **Machine learning intermedio**
-> **Warning** [En construcción] 
-- Valores faltantes
-- Variables categoricas
-- Validación cruzada (Cross-Validation)
-- Ingeniería de características (feature engineering)
+
+## [**¿Cómo mejorar la calidad de los modelos de ML? - Kaggle**](https://github.com/JoseMVergara/Ruta_de_aprendizaje_ML/blob/main/Mid_ML.md)
+- **Descripción:** Si tiene experiencia en aprendizaje automático y te gustaría aprender cómo mejorar rápidamente la calidad de sus modelos, ¡está en el lugar correcto! En este curso, acelerará su experiencia en aprendizaje automático.
+
+- **Duración:** 5 horas
+- **Idioma:** Inglés
+- **Modalidad:**
+    - Lectura
+    - Explorar y ejecutar tu propio código en Kaggle
+- **Contenido:**
+    - [Valores faltantes](https://github.com/JoseMVergara/Ruta_de_aprendizaje_ML/blob/main/Mid_ML.md#valores-faltantes)
+    - [Variables categoricas](https://github.com/JoseMVergara/Ruta_de_aprendizaje_ML/blob/main/Mid_ML.md#variables-categoricas)
+    - [Validación cruzada (Cross-Validation)](https://github.com/JoseMVergara/Ruta_de_aprendizaje_ML/blob/main/Mid_ML.md#validaci%C3%B3n-cruzada-cross-validation)
+    - [Ingeniería de características (feature engineering)](https://github.com/JoseMVergara/Ruta_de_aprendizaje_ML/blob/main/Mid_ML.md#ingenier%C3%ADa-de-caracter%C3%ADsticas-feature-engineering)
+        - [¿Qué es ingeniería de características?](https://github.com/JoseMVergara/Ruta_de_aprendizaje_ML/blob/main/Mid_ML.md#qu%C3%A9-es-ingenier%C3%ADa-de-caracter%C3%ADsticas)
+        - [Información mutua](https://github.com/JoseMVergara/Ruta_de_aprendizaje_ML/blob/main/Mid_ML.md#informaci%C3%B3n-mutua)
+        - [Creación de características](https://github.com/JoseMVergara/Ruta_de_aprendizaje_ML/blob/main/Mid_ML.md#creaci%C3%B3n-de-caracter%C3%ADsticas)
+        - [Clusterización con K-Means](https://github.com/JoseMVergara/Ruta_de_aprendizaje_ML/blob/main/Mid_ML.md#clusterizaci%C3%B3n-con-k-means)
+        - [Analisís de componentes principales (PCA)](https://github.com/JoseMVergara/Ruta_de_aprendizaje_ML/blob/main/Mid_ML.md#analis%C3%ADs-de-componentes-principales-pca)
+        - [Códificación de variables](https://github.com/JoseMVergara/Ruta_de_aprendizaje_ML/blob/main/Mid_ML.md#c%C3%B3dificaci%C3%B3n-de-variables)
+
+
+
+
 - Machine learning supervisado
 - Machine learning no supervisado
-- Series de tiempo
+- Series de tiempo https://www.kaggle.com/learn/time-series
 
+
+
+https://github.com/microsoft/Data-Science-For-Beginners
+https://github.com/microsoft/ML-For-Beginners/blob/main/1-Introduction/4-techniques-of-ML/README.md
+https://github.com/microsoft/Data-Science-For-Beginners/blob/main/4-Data-Science-Lifecycle/14-Introduction/README.md
+https://github.com/microsoft/Data-Science-For-Beginners/blob/main/1-Introduction/01-defining-data-science/README.md
+https://github.com/microsoft/Data-Science-For-Beginners/blob/main/1-Introduction/03-defining-data/README.md
 
