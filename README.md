@@ -120,16 +120,26 @@
 
 # Que es un dato, etc
 
-# **Introducción al machine learning**
-> **Warning** [En construcción] 
-- Cómo funcionan los modelos de machine learning
-- taxonomia de los modelos de ML
-- Exploración básica de los datos
-- Primer modelo de machine learning
-- Validación de modelos
-- Subajuste y sobreajuste (underfitting - overfitting)
+# **Machine Learning**
 
-# **Machine learning intermedio**
+## [**Introducción al machine learning**](https://github.com/JoseMVergara/Ruta_de_aprendizaje_ML/blob/main/Intro_ML.md)
+- **Descripción:** Conozca las ideas principales del aprendizaje automático y cree sus primeros modelos.
+
+- **Duración:**  horas
+- **Idioma:** Inglés
+- **Modalidad:**
+    - Lectura
+    - Explorar y ejecutar tu propio código en Kaggle
+- **Contenido:**
+    - [Cómo funcionan los modelos de machine learning](https://github.com/JoseMVergara/Ruta_de_aprendizaje_ML/blob/main/Intro_ML.md#c%C3%B3mo-funcionan-los-modelos-de-machine-learning)
+    - [taxonomia de los modelos de ML]
+    - [Exploración básica de los datos](https://github.com/JoseMVergara/Ruta_de_aprendizaje_ML/blob/main/Intro_ML.md#exploraci%C3%B3n-b%C3%A1sica-de-los-datos)
+    - [Primer modelo de machine learning](https://github.com/JoseMVergara/Ruta_de_aprendizaje_ML/blob/main/Intro_ML.md#primer-modelo-de-machine-learning)
+    - [Validación de modelos](https://github.com/JoseMVergara/Ruta_de_aprendizaje_ML/blob/main/Intro_ML.md#validaci%C3%B3n-de-modelos)
+    - [Subajuste y sobreajuste (underfitting - overfitting)](https://github.com/JoseMVergara/Ruta_de_aprendizaje_ML/blob/main/Intro_ML.md#subajuste-y-sobreajuste-underfitting---overfitting)
+
+
+## **Machine learning intermedio**
 > **Warning** [En construcción] 
 - Valores faltantes
 - Variables categoricas
@@ -138,4 +148,5 @@
 - Machine learning supervisado
 - Machine learning no supervisado
 - Series de tiempo
+
 
