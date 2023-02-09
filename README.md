@@ -17,12 +17,13 @@
 
 # **Python**
 
-## **Contenido Python**
+
+<!--## **Contenido Python**
 > **Warning** [En construcción] 
 
 
 
-- Aritmetica y variables 
+ - Aritmetica y variables 
     - Función print
     - Aritmética y operadores
     - Variables
@@ -44,7 +45,7 @@
     - Numpy
     - Seaborn
     - Matplotlib
-    - Scipy
+    - Scipy-->
 
 
 
