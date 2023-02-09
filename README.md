@@ -3,7 +3,7 @@
 | Modulo | Duración |Lección| Objetivos de aprendizaje | Fuente|Modalidad|
 |----------- |----------- |----------- |----------- |----------- |----------- |
 |[01-Python](#python)|5 horas|[Introducción a la programación en Python](#introducción-a-la-programación-en-python---kaggle)|Este curso es para usted **si nunca ha escrito una sola línea de código** y está interesado en aprender ciencia de datos y aprendizaje automático. En este curso, aprenderá a usar código para que una computadora realice ciertas tareas por usted. |Kaggle|Lectura y posibilidad de ejecutar tu propio código en Kaggle|
-|[01-Python](#python)|18 horas|[Python básico](#python-básico---skill-hacking)|[En construcción]|Skill hacking|Video|
+|[01-Python](#python)|18 horas|[Python básico](#python-básico---skill-hacking)|Con el apoyo del equipo de Transformación y Soporte de Inteligencia de Negocios, se generó este material para aprender los conceptos básicos de este lenguaje que está dando mucho de qué hablar.|Skill hacking|Video|
 |[02-Pandas](#pandas)|6 horas|[Aprende todos los fundamentas de Pandas](https://github.com/JoseMVergara/Ruta_de_aprendizaje_ML/blob/main/Pandas.md#crear-leer-y-escribir)|Aprenderá a crear sus propios datos y a trabajar con datos que ya existen, seleccionar valores específicos, transformar los datos, agruparlos, reemplazarlos y utilizar funciones. Kaggle|Kaggle | Lectura y posibilidad de ejecutar tu propio código en Kaggle|
 |[03-Estadística](#estadística) | 1 hora|[Estadística para Machine Learning & Inteligencia Artificial](#estadística-para-machine-learning--inteligencia-artificial---estrategía-e-innovación-de-ti)|Estadística y teoría de probabilidad son dos áreas matematícas altamente relacionadas con la Ciencia de datos. Aunque es posible operar datos sin tener un conocimiento profundo en matemáticas, es mejor conocer al menos unos conceptos básicos que ayudarán a la toma de decisiones durante todo el proceso de análisis.|Estrategía e Innovación de TI|Lectura y posibilidad de ejecutar tu propio código en Colab|
 |[04-Machine Learning](#machine-learning) | 1 hora| [Ciclo de vida de un proyecto de analítica de datos](#ciclo-de-vida-de-un-proyecto-de-analítica-de-datos---estrategía-e-innovación-de-ti) | Aprenderás las bases del ciclo de vida de un proyecto de analítica de datos, el cual, es la secuencia de fases que atraviesa un proyecto desde su inicio hasta su cierre. |Estrategía e Innovación de TI|Lectura - Presentación|
@@ -12,6 +12,7 @@
 |[04-Machine Learning](#machine-learning) | x horas| Machine Learning supervisado | x|x| x|
 |[04-Machine Learning](#machine-learning) | x horas| Machine Learning no supervisado | x|x| x|
 |[04-Machine Learning](#machine-learning) | 5 horas| [Series de tiempo](#series-de-tiempo---kaggle) | Aplique el aprendizaje automático a las tareas de previsión del mundo real.|Kaggle| Lectura y posibilidad de ejecutar tu propio código en Kaggle|
+
 
 
 # **Python**
