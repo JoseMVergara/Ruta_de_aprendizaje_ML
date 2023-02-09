@@ -1,32 +1,19 @@
 # **Rutas de conocimiento**
 
-<!-- | Modulo | Duración | Descripción |
-| ----------- | ----------- | ---------- |
-| [Estadística](#estadística) | x horas | [En construcción]  |
-| [Introducción a la programación en Python](#introducción-a-la-programación-en-python) | x horas |[En construcción]   |
-| [Pandas](#pandas) | 6 horas | Aprenderás todo sobre pandas, la biblioteca de Python más popular para el análisis de datos.  |
-| [Introducción al machine learning](#introducción-al-machine-learning) | x horas |[En construcción]   |
-| [Machine learning intermedio](#machine-learning-intermedio) | x horas |[En construcción]   | -->
-
 
 | Modulo | Duración |Lección| Objetivos de aprendizaje | Fuente|Modalidad|
 |----------- |----------- |----------- |----------- |----------- |----------- |
-|[01-Estadística](#estadística) | x horas| Estimadores de las principales medidas estadísticas| [En construcción]|-||
-|[01-Estadística](#estadística) | x horas|Distribuciones principales| [En construcción]|-||
-|[01-Estadística](#estadística) | x horas| Modelo lineal / regresión lineal| [En construcción]|-||
-|[02-Python](#python)|5 horas|[Introducción a la programación en Python](#introducción-a-la-programación-en-python---kaggle)|Este curso es para usted **si nunca ha escrito una sola línea de código** y está interesado en aprender ciencia de datos y aprendizaje automático. En este curso, aprenderá a usar código para que una computadora realice ciertas tareas por usted. |Kaggle|Lectura y posibilidad de ejecutar tu propio código en Kaggle|
-|[02-Python](#python)|18 horas|[Python básico](#python-básico---skill-hacking)|[En construcción]|Skill hacking|Video|
-|[03-Pandas](#pandas)|6 horas|[Aprende todos los fundamentas de Pandas](https://github.com/JoseMVergara/Ruta_de_aprendizaje_ML/blob/main/Pandas.md#crear-leer-y-escribir)|Aprenderá a crear sus propios datos y a trabajar con datos que ya existen, seleccionar valores específicos, transformar los datos, agruparlos, reemplazarlos y utilizar funciones. Kaggle|Kaggle | Lectura y posibilidad de ejecutar tu propio código en Kaggle|
+|[01-Python](#python)|5 horas|[Introducción a la programación en Python](#introducción-a-la-programación-en-python---kaggle)|Este curso es para usted **si nunca ha escrito una sola línea de código** y está interesado en aprender ciencia de datos y aprendizaje automático. En este curso, aprenderá a usar código para que una computadora realice ciertas tareas por usted. |Kaggle|Lectura y posibilidad de ejecutar tu propio código en Kaggle|
+|[01-Python](#python)|18 horas|[Python básico](#python-básico---skill-hacking)|[En construcción]|Skill hacking|Video|
+|[02-Pandas](#pandas)|6 horas|[Aprende todos los fundamentas de Pandas](https://github.com/JoseMVergara/Ruta_de_aprendizaje_ML/blob/main/Pandas.md#crear-leer-y-escribir)|Aprenderá a crear sus propios datos y a trabajar con datos que ya existen, seleccionar valores específicos, transformar los datos, agruparlos, reemplazarlos y utilizar funciones. Kaggle|Kaggle | Lectura y posibilidad de ejecutar tu propio código en Kaggle|
+|[03-Estadística](#estadística) | 1 hora| Estadística para Machine Learning & Inteligencia Artificial|Estadística y teoría de probabilidad son dos áreas matematícas altamente relacionadas con la Ciencia de datos. Aunque es posible operar datos sin tener un conocimiento profundo en matemáticas, es mejor conocer al menos unos conceptos básicos que ayudarán a la toma de decisiones durante todo el proceso de análisis.|Estrategía e Innovación de TI|Lectura y posibilidad de ejecutar tu propio código en Colab|
+|[04-Machine Learning](#machine-learning) | 1 hora| Ciclo de vida de un proyecto de analítica de datos | Aprenderás las bases del ciclo de vida de un proyecto de analítica de datos, el cual, es la secuencia de fases que atraviesa un proyecto desde su inicio hasta su cierre. |Estrategía e Innovación de TI|Lectura - Presentación|
+|[04-Machine Learning](#machine-learning) | 5 horas| Introducción al machine learning | Conozca las ideas principales del aprendizaje automático y cree sus primeros modelos. |Kaggle| Lectura y posibilidad de ejecutar tu propio código en Kaggle|
+|[04-Machine Learning](#machine-learning) | 5 horas| ¿Cómo mejorar la calidad de los modelos de ML? | Si tiene experiencia en aprendizaje automático y te gustaría aprender cómo mejorar rápidamente la calidad de sus modelos, ¡está en el lugar correcto! En este curso, acelerará su experiencia en aprendizaje automático.|Kaggle| Lectura y posibilidad de ejecutar tu propio código en Kaggle|
+|[04-Machine Learning](#machine-learning) | x horas| Machine Learning supervisado | x|x| x|
+|[04-Machine Learning](#machine-learning) | x horas| Machine Learning no supervisado | x|x| x|
+|[04-Machine Learning](#machine-learning) | 5 horas| Series de tiempo | Aplique el aprendizaje automático a las tareas de previsión del mundo real.|Kaggle| Lectura y posibilidad de ejecutar tu propio código en Kaggle|
 
-
-<!-- |||||||
-|||||||
-|||||||
-|||||||
-|||||||
-||||||| -->
-
-<!-- #https://github.com/microsoft/ML-For-Beginners -->
 
 # **Python**
 
@@ -131,9 +118,29 @@
     - [Covarianza y correlación](https://colab.research.google.com/drive/1WvfS89MGms-tvwVRXzRCOTpCBmiHJaaN#scrollTo=Y-sSfyEgmj8d)
     - [Ejercicio práctico de conceptos aprendidos](https://colab.research.google.com/drive/1WvfS89MGms-tvwVRXzRCOTpCBmiHJaaN#scrollTo=60laiEpK-EsO)
 
-# Que es un dato, etc
+
 
 # **Machine Learning**
+
+## [Ciclo de vida de un proyecto de analítica de datos - Estrategía e Innovación de TI](https://bancolombia-my.sharepoint.com/:p:/g/personal/josverga_bancolombia_com_co/ESqbP9ycI9VKko4FlxTB9-gBF_ySUqL5AtueEzI64lN42Q?e=F7SG0t)
+- **Descripción:** Aprenderás las bases del ciclo de vida de un proyecto de analítica de datos, el cual, es la secuencia de fases que atraviesa un proyecto desde su inicio hasta su cierre. 
+
+- **Duración:** 1 hora
+- **Idioma:** Español
+- **Modalidad:**
+    - Lectura - Presentación
+- **Contenido:**
+    - Introducción
+    - Metodología CRISP-DM
+    - Ciclo de vida de un proyecto de analítica de datos
+        - Entendimiento de negocio
+        - Entendimiento de datos
+        - Preparación de datos
+        - Modelamiento
+        - Evaluación
+        - Despliegue
+
+
 
 ## [**Introducción al machine learning**](https://github.com/JoseMVergara/Ruta_de_aprendizaje_ML/blob/main/Intro_ML.md)
 - **Descripción:** Conozca las ideas principales del aprendizaje automático y cree sus primeros modelos.
@@ -178,7 +185,23 @@
 
 - Machine learning supervisado
 - Machine learning no supervisado
-- Series de tiempo https://www.kaggle.com/learn/time-series
+
+## [**Series de tiempo - Kaggle**](https://github.com/JoseMVergara/Ruta_de_aprendizaje_ML/blob/main/TimeSeries.md)
+- **Descripción:** Aplique el aprendizaje automático a las tareas de previsión del mundo real.
+
+- **Duración:** 5 horas
+- **Idioma:** Inglés
+- **Modalidad:**
+    - Lectura
+    - Explorar y ejecutar tu propio código en Kaggle
+- **Contenido:**
+    - [Regresión lineal con series de tiempo](https://github.com/JoseMVergara/Ruta_de_aprendizaje_ML/blob/main/TimeSeries.md#regresi%C3%B3n-lineal-con-series-de-tiempo)
+    - [Tendencia](https://github.com/JoseMVergara/Ruta_de_aprendizaje_ML/blob/main/TimeSeries.md#tendencia)
+    - [Estacionalidad](https://github.com/JoseMVergara/Ruta_de_aprendizaje_ML/blob/main/TimeSeries.md#estacionalidad)
+    - [Serie de tiempo como características](https://github.com/JoseMVergara/Ruta_de_aprendizaje_ML/blob/main/TimeSeries.md#serie-de-tiempo-como-caracter%C3%ADsticas)
+    - [Modelos híbridos](https://github.com/JoseMVergara/Ruta_de_aprendizaje_ML/blob/main/TimeSeries.md#modelos-h%C3%ADbridos)
+    - [Pronóstico con aprendizaje automático (ML)](https://github.com/JoseMVergara/Ruta_de_aprendizaje_ML/blob/main/TimeSeries.md#pron%C3%B3stico-con-aprendizaje-autom%C3%A1tico-ml)
+
 
 
 
@@ -186,5 +209,3 @@ https://github.com/microsoft/Data-Science-For-Beginners
 https://github.com/microsoft/ML-For-Beginners/blob/main/1-Introduction/4-techniques-of-ML/README.md
 https://github.com/microsoft/Data-Science-For-Beginners/blob/main/4-Data-Science-Lifecycle/14-Introduction/README.md
 https://github.com/microsoft/Data-Science-For-Beginners/blob/main/1-Introduction/01-defining-data-science/README.md
-https://github.com/microsoft/Data-Science-For-Beginners/blob/main/1-Introduction/03-defining-data/README.md
-
