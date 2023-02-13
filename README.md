@@ -17,10 +17,9 @@
 |[03-Estadística](#estadística) | 1 hora|[Estadística para Machine Learning & Inteligencia Artificial](#estadística-para-machine-learning--inteligencia-artificial---estrategía-e-innovación-de-ti)|Estadística y teoría de probabilidad son dos áreas matematícas altamente relacionadas con la Ciencia de datos. Aunque es posible operar datos sin tener un conocimiento profundo en matemáticas, es mejor conocer al menos unos conceptos básicos que ayudarán a la toma de decisiones durante todo el proceso de análisis.|Estrategía e Innovación de TI|Lectura y posibilidad de ejecutar tu propio código en Colab|
 |[04-Machine Learning](#machine-learning) | 1 hora| [Ciclo de vida de un proyecto de analítica de datos](#ciclo-de-vida-de-un-proyecto-de-analítica-de-datos---estrategía-e-innovación-de-ti) | Aprenderás las bases del ciclo de vida de un proyecto de analítica de datos, el cual, es la secuencia de fases que atraviesa un proyecto desde su inicio hasta su cierre. |Estrategía e Innovación de TI|Lectura - Presentación|
 |[04-Machine Learning](#machine-learning) | 5 horas| [Introducción al machine learning](#introducción-al-machine-learning) | Conozca las ideas principales del aprendizaje automático y cree sus primeros modelos. |Kaggle| Lectura y posibilidad de ejecutar tu propio código en Kaggle|
-|[04-Machine Learning](#machine-learning) | 5 horas| [¿Cómo mejorar la calidad de los modelos de ML?](#¿cómo-mejorar-la-calidad-de-los-modelos-de-ml---kaggle) | Si tiene experiencia en aprendizaje automático y te gustaría aprender cómo mejorar rápidamente la calidad de sus modelos, ¡está en el lugar correcto! En este curso, acelerará su experiencia en aprendizaje automático.|Kaggle| Lectura y posibilidad de ejecutar tu propio código en Kaggle|
-|[04-Machine Learning](#machine-learning) | x horas| Machine Learning supervisado | x|x| x|
-|[04-Machine Learning](#machine-learning) | x horas| Machine Learning no supervisado | x|x| x|
+|[04-Machine Learning](#machine-learning) | 16 horas| [Machine Learning Intermedio](#machine-learning-intermedio---python-data-science-handbook-by-jake-vanderplas) |  Este capítulo se sumergirá en los aspectos prácticos del aprendizaje automático, principalmente utilizando el paquete Scikit-Learn de Python. Esto no pretende ser una introducción completa al campo del aprendizaje automático; ese es un tema amplio y requiere un enfoque más técnico que el que adoptamos aquí. Tampoco pretende ser un manual completo para el uso del paquete Scikit-Learn.|Jake VanderPlas| Lectura y posibilidad de ejecutar tu propio código en Colab|
 |[04-Machine Learning](#machine-learning) | 5 horas| [Series de tiempo](#series-de-tiempo---kaggle) | Aplique el aprendizaje automático a las tareas de previsión del mundo real.|Kaggle| Lectura y posibilidad de ejecutar tu propio código en Kaggle|
+|[04-Machine Learning](#machine-learning) | 5 horas| [¿Cómo mejorar la calidad de los modelos de ML?](#¿cómo-mejorar-la-calidad-de-los-modelos-de-ml---kaggle) | Si tiene experiencia en aprendizaje automático y te gustaría aprender cómo mejorar rápidamente la calidad de sus modelos, ¡está en el lugar correcto! En este curso, acelerará su experiencia en aprendizaje automático.|Kaggle| Lectura y posibilidad de ejecutar tu propio código en Kaggle|
 
 
 # **Python**
@@ -167,6 +166,72 @@
     - [Subajuste y sobreajuste (underfitting - overfitting)](https://github.com/JoseMVergara/Ruta_de_aprendizaje_ML/blob/main/Intro_ML.md#subajuste-y-sobreajuste-underfitting---overfitting)
 
 
+## **Machine learning intermedio -  Python Data Science Handbook by Jake VanderPlas**
+- **Descripción:** Este capítulo se sumergirá en los aspectos prácticos del aprendizaje automático, principalmente utilizando el paquete Scikit-Learn de Python. Esto no pretende ser una introducción completa al campo del aprendizaje automático; ese es un tema amplio y requiere un enfoque más técnico que el que adoptamos aquí. Tampoco pretende ser un manual completo para el uso del paquete Scikit-Learn. Más bien, los objetivos de este capítulo son:
+
+    -  Introducir el vocabulario y los conceptos fundamentales del aprendizaje automático.
+    - Presentar la API de Scikit-Learn y mostrar algunos ejemplos de su uso.
+    - Profundizar en los detalles de varios de los enfoques de aprendizaje automático más importantes y desarrollar una intuición sobre cómo funcionan y cuándo y dónde son aplicables.
+- **Duración:** 16 horas
+- **Idioma:** Inglés
+- **Modalidad:**
+    - Lectura
+    - Explorar y ejecutar tu propio código en Google Colab
+- **Contenido:**
+    - [Refuerza tu conocimiento: Conceptos fundamentales del machine learning.](https://colab.research.google.com/github/jakevdp/PythonDataScienceHandbook/blob/master/notebooks/05.01-What-Is-Machine-Learning.ipynb#scrollTo=qXNmzTMrdYl-)
+    - [Introducción a Scikit-Learn](https://colab.research.google.com/github/jakevdp/PythonDataScienceHandbook/blob/master/notebooks/05.02-Introducing-Scikit-Learn.ipynb#scrollTo=nUIxlZdRdUHD)
+        - Representación de datos en Scikit-Learn
+        - Ejemplo Aprendizaje supervisado: Regresión lineal simple
+        - Ejemplo Aprendizaje supervisado: Clasificación
+        - Ejemplo Aprendizaje no supervisado: Reducción dimensionalidad
+        - Ejemplo Aprendizaje no supervisado: Agrupación (Clustering)
+        - Aplicación: Explorando dígitos escritos a mano 
+    - [Machine Learning con Scikit-Learn - ASTG Python courses](https://colab.research.google.com/github/astg606/py_materials/blob/master/machine_learning/ml_models_scikit-learn.ipynb)
+        - Regresión:
+            - Analisís exploratorio de los datos
+            - Proceso de selección de modelo
+            - Modelo lineal simple
+            - Modelo de regresión lineal con todas las variables
+            - Selección del mejor modelo. Validación cruzada K-Fold
+            - Modelo con Gradient Boosted Tree
+        - Clasificación:
+            - Modelo usando Support Vector Machines (SVM)
+            - Modelo usando regresión logistíca
+            - Modelo usando Random Forest 
+            - Modelo usando Gradien Boosting
+            - Modelo usando MLP
+    - [Hiperparámetros y Validación de Modelos](https://colab.research.google.com/github/jakevdp/PythonDataScienceHandbook/blob/master/notebooks/05.03-Hyperparameters-and-Model-Validation.ipynb#scrollTo=ljv20_qik6Zn)
+        - Forma incorrecta de validar modelos
+        - Forma correcta de validar modelos: Conjuntos de entrenamiento y prueba
+        - Validación de modelos vía Validación cruzada
+        - Selección del mejor modelo
+        - Curvas de validación en Scikit-Learn
+        - Curvas de aprendizaje
+        - Grid Search 
+    - [En profundidad: Regresión Lineal](https://colab.research.google.com/github/jakevdp/PythonDataScienceHandbook/blob/master/notebooks/05.06-Linear-Regression.ipynb)
+    - [En profundidad: máquinas de vectores de soporte - SVM](https://colab.research.google.com/github/jakevdp/PythonDataScienceHandbook/blob/master/notebooks/05.07-Support-Vector-Machines.ipynb#scrollTo=kIIucjBCpZnn)
+    - [En profundidad: Árboles de decisión y Bosques aleatorios (Decision Trees and Random Forest)](https://colab.research.google.com/github/jakevdp/PythonDataScienceHandbook/blob/master/notebooks/05.08-Random-Forests.ipynb)
+    - [En profundidad: Analísis de componentes principales - PCA](https://colab.research.google.com/github/jakevdp/PythonDataScienceHandbook/blob/master/notebooks/05.09-Principal-Component-Analysis.ipynb)
+    - [En profundidad: K-Medias (K-Means)](https://colab.research.google.com/github/jakevdp/PythonDataScienceHandbook/blob/master/notebooks/05.11-K-Means.ipynb)
+
+
+
+## [**Series de tiempo - Kaggle**](https://github.com/JoseMVergara/Ruta_de_aprendizaje_ML/blob/main/TimeSeries.md)
+- **Descripción:** Aplique el aprendizaje automático a las tareas de previsión del mundo real.
+
+- **Duración:** 5 horas
+- **Idioma:** Inglés
+- **Modalidad:**
+    - Lectura
+    - Explorar y ejecutar tu propio código en Kaggle
+- **Contenido:**
+    - [Regresión lineal con series de tiempo](https://github.com/JoseMVergara/Ruta_de_aprendizaje_ML/blob/main/TimeSeries.md#regresi%C3%B3n-lineal-con-series-de-tiempo)
+    - [Tendencia](https://github.com/JoseMVergara/Ruta_de_aprendizaje_ML/blob/main/TimeSeries.md#tendencia)
+    - [Estacionalidad](https://github.com/JoseMVergara/Ruta_de_aprendizaje_ML/blob/main/TimeSeries.md#estacionalidad)
+    - [Serie de tiempo como características](https://github.com/JoseMVergara/Ruta_de_aprendizaje_ML/blob/main/TimeSeries.md#serie-de-tiempo-como-caracter%C3%ADsticas)
+    - [Modelos híbridos](https://github.com/JoseMVergara/Ruta_de_aprendizaje_ML/blob/main/TimeSeries.md#modelos-h%C3%ADbridos)
+    - [Pronóstico con aprendizaje automático (ML)](https://github.com/JoseMVergara/Ruta_de_aprendizaje_ML/blob/main/TimeSeries.md#pron%C3%B3stico-con-aprendizaje-autom%C3%A1tico-ml)
+
 
 ## [**¿Cómo mejorar la calidad de los modelos de ML? - Kaggle**](https://github.com/JoseMVergara/Ruta_de_aprendizaje_ML/blob/main/Mid_ML.md)
 - **Descripción:** Si tiene experiencia en aprendizaje automático y te gustaría aprender cómo mejorar rápidamente la calidad de sus modelos, ¡está en el lugar correcto! En este curso, acelerará su experiencia en aprendizaje automático.
@@ -188,33 +253,10 @@
         - [Analisís de componentes principales (PCA)](https://github.com/JoseMVergara/Ruta_de_aprendizaje_ML/blob/main/Mid_ML.md#analis%C3%ADs-de-componentes-principales-pca)
         - [Códificación de variables](https://github.com/JoseMVergara/Ruta_de_aprendizaje_ML/blob/main/Mid_ML.md#c%C3%B3dificaci%C3%B3n-de-variables)
 
-
-
-
-- Machine learning supervisado
-- Machine learning no supervisado
-
-## [**Series de tiempo - Kaggle**](https://github.com/JoseMVergara/Ruta_de_aprendizaje_ML/blob/main/TimeSeries.md)
-- **Descripción:** Aplique el aprendizaje automático a las tareas de previsión del mundo real.
-
-- **Duración:** 5 horas
-- **Idioma:** Inglés
-- **Modalidad:**
-    - Lectura
-    - Explorar y ejecutar tu propio código en Kaggle
-- **Contenido:**
-    - [Regresión lineal con series de tiempo](https://github.com/JoseMVergara/Ruta_de_aprendizaje_ML/blob/main/TimeSeries.md#regresi%C3%B3n-lineal-con-series-de-tiempo)
-    - [Tendencia](https://github.com/JoseMVergara/Ruta_de_aprendizaje_ML/blob/main/TimeSeries.md#tendencia)
-    - [Estacionalidad](https://github.com/JoseMVergara/Ruta_de_aprendizaje_ML/blob/main/TimeSeries.md#estacionalidad)
-    - [Serie de tiempo como características](https://github.com/JoseMVergara/Ruta_de_aprendizaje_ML/blob/main/TimeSeries.md#serie-de-tiempo-como-caracter%C3%ADsticas)
-    - [Modelos híbridos](https://github.com/JoseMVergara/Ruta_de_aprendizaje_ML/blob/main/TimeSeries.md#modelos-h%C3%ADbridos)
-    - [Pronóstico con aprendizaje automático (ML)](https://github.com/JoseMVergara/Ruta_de_aprendizaje_ML/blob/main/TimeSeries.md#pron%C3%B3stico-con-aprendizaje-autom%C3%A1tico-ml)
-
-
-
-
-https://github.com/microsoft/Data-Science-For-Beginners
+<!-- https://github.com/microsoft/Data-Science-For-Beginners
 https://github.com/microsoft/ML-For-Beginners/blob/main/1-Introduction/4-techniques-of-ML/README.md
 https://github.com/microsoft/Data-Science-For-Beginners/blob/main/4-Data-Science-Lifecycle/14-Introduction/README.md
 https://github.com/microsoft/Data-Science-For-Beginners/blob/main/1-Introduction/01-defining-data-science/README.md
+https://colab.research.google.com/github/jakevdp/PythonDataScienceHandbook/blob/master/notebooks/Index.ipynb -->
+
 
