@@ -1,5 +1,14 @@
 # **Rutas de conocimiento**
 
+<!-- | Modulo | Duración | Descripción |
+| ----------- | ----------- | ---------- |
+| [Estadística](#estadística) | x horas | [En construcción]  |
+| [Introducción a la programación en Python](#introducción-a-la-programación-en-python) | x horas |[En construcción]   |
+| [Pandas](#pandas) | 6 horas | Aprenderás todo sobre pandas, la biblioteca de Python más popular para el análisis de datos.  |
+| [Introducción al machine learning](#introducción-al-machine-learning) | x horas |[En construcción]   |
+| [Machine learning intermedio](#machine-learning-intermedio) | x horas |[En construcción]   | -->
+
+
 | Modulo | Duración |Lección| Descripción | Fuente|Modalidad|
 |----------- |----------- |----------- |----------- |----------- |----------- |
 |[01-Python](#python)|5 horas|[Introducción a la programación en Python](#introducción-a-la-programación-en-python---kaggle)|Este curso es para usted **si nunca ha escrito una sola línea de código** y está interesado en aprender ciencia de datos y aprendizaje automático. En este curso, aprenderá a usar código para que una computadora realice ciertas tareas por usted. |Kaggle|Lectura y posibilidad de ejecutar tu propio código en Kaggle|
@@ -14,9 +23,7 @@
 |[04-Machine Learning](#machine-learning) | 5 horas| [Series de tiempo](#series-de-tiempo---kaggle) | Aplique el aprendizaje automático a las tareas de previsión del mundo real.|Kaggle| Lectura y posibilidad de ejecutar tu propio código en Kaggle|
 
 
-
 # **Python**
-
 
 <!--## **Contenido Python**
 > **Warning** [En construcción] 
@@ -153,7 +160,7 @@
     - Explorar y ejecutar tu propio código en Kaggle
 - **Contenido:**
     - [Cómo funcionan los modelos de machine learning](https://github.com/JoseMVergara/Ruta_de_aprendizaje_ML/blob/main/Intro_ML.md#c%C3%B3mo-funcionan-los-modelos-de-machine-learning)
-    - [taxonomia de los modelos de ML]
+    - [taxonomia de los modelos de ML](https://github.com/JoseMVergara/Ruta_de_aprendizaje_ML/blob/main/ML_Taxonomia.md)
     - [Exploración básica de los datos](https://github.com/JoseMVergara/Ruta_de_aprendizaje_ML/blob/main/Intro_ML.md#exploraci%C3%B3n-b%C3%A1sica-de-los-datos)
     - [Primer modelo de machine learning](https://github.com/JoseMVergara/Ruta_de_aprendizaje_ML/blob/main/Intro_ML.md#primer-modelo-de-machine-learning)
     - [Validación de modelos](https://github.com/JoseMVergara/Ruta_de_aprendizaje_ML/blob/main/Intro_ML.md#validaci%C3%B3n-de-modelos)
@@ -210,3 +217,4 @@ https://github.com/microsoft/Data-Science-For-Beginners
 https://github.com/microsoft/ML-For-Beginners/blob/main/1-Introduction/4-techniques-of-ML/README.md
 https://github.com/microsoft/Data-Science-For-Beginners/blob/main/4-Data-Science-Lifecycle/14-Introduction/README.md
 https://github.com/microsoft/Data-Science-For-Beginners/blob/main/1-Introduction/01-defining-data-science/README.md
+
