@@ -21,6 +21,7 @@
 |[04-Machine Learning](#machine-learning) | 16 horas| [Machine Learning Intermedio](#machine-learning-intermedio---python-data-science-handbook-by-jake-vanderplas) |  Este capítulo se sumergirá en los aspectos prácticos del aprendizaje automático, principalmente utilizando el paquete Scikit-Learn de Python. Esto no pretende ser una introducción completa al campo del aprendizaje automático; ese es un tema amplio y requiere un enfoque más técnico que el que adoptamos aquí. Tampoco pretende ser un manual completo para el uso del paquete Scikit-Learn.|Jake VanderPlas| Lectura y posibilidad de ejecutar tu propio código en Colab|
 |[04-Machine Learning](#machine-learning) | 5 horas| [Series de tiempo](#series-de-tiempo---kaggle) | Aplique el aprendizaje automático a las tareas de previsión del mundo real.|Kaggle| Lectura y posibilidad de ejecutar tu propio código en Kaggle|
 |[04-Machine Learning](#machine-learning) | 5 horas| [¿Cómo mejorar la calidad de los modelos de ML?](#¿cómo-mejorar-la-calidad-de-los-modelos-de-ml---kaggle) | Si tiene experiencia en aprendizaje automático y te gustaría aprender cómo mejorar rápidamente la calidad de sus modelos, ¡está en el lugar correcto! En este curso, acelerará su experiencia en aprendizaje automático.|Kaggle| Lectura y posibilidad de ejecutar tu propio código en Kaggle|
+|[05-Nube](#nube) | 1 hora| [AWS Sagemaker Office hours - Skill hacking](#aws-sagemaker-office-hours---skill-hacking) | Aprende cómo hacer uso de Sagemaker Notebooks y ejecutar tu propio código de Machine learning en la nube de aws.|Skill Hacking|Video|
 
 
 # **Python**
@@ -277,5 +278,15 @@ https://github.com/microsoft/ML-For-Beginners/blob/main/1-Introduction/4-techniq
 https://github.com/microsoft/Data-Science-For-Beginners/blob/main/4-Data-Science-Lifecycle/14-Introduction/README.md
 https://github.com/microsoft/Data-Science-For-Beginners/blob/main/1-Introduction/01-defining-data-science/README.md
 https://colab.research.google.com/github/jakevdp/PythonDataScienceHandbook/blob/master/notebooks/Index.ipynb -->
+
+
+# **Nube**
+
+## [**AWS Sagemaker Office hours - Skill hacking**](https://bancolombia.sharepoint.com/:v:/r/teams/PortaldeconocimientosTI/Documentos%20compartidos/General/AWS/OA07012020-SageMaker.mp4?csf=1&web=1&e=XAlygY)
+- **Descripción:** Aprende cómo hacer uso de Sagemaker Notebooks y ejecutar tu propio código de Machine learning en la nube de aws.
+- **Duración:**  1 hora
+- **idioma:** Español
+- **Modalidad:**
+    - Contenido audivisual (Video)
 
 
