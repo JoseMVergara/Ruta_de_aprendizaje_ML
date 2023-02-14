@@ -12,6 +12,7 @@
 | Modulo | Duración |Lección| Descripción | Fuente|Modalidad|
 |----------- |----------- |----------- |----------- |----------- |----------- |
 |[01-Python](#python)|5 horas|[Introducción a la programación en Python](#introducción-a-la-programación-en-python---kaggle)|Este curso es para usted **si nunca ha escrito una sola línea de código** y está interesado en aprender ciencia de datos y aprendizaje automático. En este curso, aprenderá a usar código para que una computadora realice ciertas tareas por usted. |Kaggle|Lectura y posibilidad de ejecutar tu propio código en Kaggle|
+|[01-Python](#python)|8 horas|[Introducción a Python](#introducción-a-python---capacidades-analíticas-y-gobierno-de-información)|En este espacio puedes encontrar las memorias de los cursos dictados de Python, así puedes repasar, aclarar dudas y reforzar conocimientos.|Capacidades Analíticas y Gobierno de Información|Video|
 |[01-Python](#python)|18 horas|[Python básico](#python-básico---skill-hacking)|Con el apoyo del equipo de Transformación y Soporte de Inteligencia de Negocios, se generó este material para aprender los conceptos básicos de este lenguaje que está dando mucho de qué hablar.|Skill hacking|Video|
 |[02-Pandas](#pandas)|6 horas|[Aprende todos los fundamentas de Pandas](https://github.com/JoseMVergara/Ruta_de_aprendizaje_ML/blob/main/Pandas.md#crear-leer-y-escribir)|Aprenderá a crear sus propios datos y a trabajar con datos que ya existen, seleccionar valores específicos, transformar los datos, agruparlos, reemplazarlos y utilizar funciones. Kaggle|Kaggle | Lectura y posibilidad de ejecutar tu propio código en Kaggle|
 |[03-Estadística](#estadística) | 1 hora|[Estadística para Machine Learning & Inteligencia Artificial](#estadística-para-machine-learning--inteligencia-artificial---estrategía-e-innovación-de-ti)|Estadística y teoría de probabilidad son dos áreas matematícas altamente relacionadas con la Ciencia de datos. Aunque es posible operar datos sin tener un conocimiento profundo en matemáticas, es mejor conocer al menos unos conceptos básicos que ayudarán a la toma de decisiones durante todo el proceso de análisis.|Estrategía e Innovación de TI|Lectura y posibilidad de ejecutar tu propio código en Colab|
@@ -69,6 +70,24 @@
     - [Condiciones y Declaraciones Condicionales](https://github.com/JoseMVergara/Ruta_de_aprendizaje_ML/blob/main/introduccion_programacion_kaggle.md#condiciones-y-declaraciones-condicionales)
     - [Introducción a las listas](https://github.com/JoseMVergara/Ruta_de_aprendizaje_ML/blob/main/introduccion_programacion_kaggle.md#introducci%C3%B3n-a-las-listas)
   
+
+## [**Introducción a Python - Capacidades Analíticas y Gobierno de Información**](https://bancolombia.sharepoint.com/:f:/r/sites/co-gin/Documentos%20compartidos/Biblioteca%20Wiki/Herramientas/Cursos%20Comunidad/CURSOS%20B%C3%81SICOS/INTRODUCCI%C3%93N%20A%20PYTHON%202022?csf=1&web=1&e=Av7agb)
+- **Descripción:** En este espacio puedes encontrar las memorias de los cursos dictados de Python, así puedes repasar, aclarar dudas y reforzar conocimientos.
+- **Duración:** 8 horas
+- **idioma:** Español
+- **Modalidad:**
+    - Contenido audivisual (Video)
+- **Contenido:**
+    - [Sesión 1:](https://bancolombia.sharepoint.com/:v:/r/sites/co-gin/Documentos%20compartidos/Biblioteca%20Wiki/Herramientas/Cursos%20Comunidad/CURSOS%20B%C3%81SICOS/INTRODUCCI%C3%93N%20A%20PYTHON%202022/Python_B%C3%A1sico_Sesion1.mp4?csf=1&web=1&e=Olm5ff)
+        - Datos e Historia
+        - Tipos de datos 1
+        - Funciones y estructuras de control
+    - [Sesion 2:](https://bancolombia.sharepoint.com/:v:/r/sites/co-gin/Documentos%20compartidos/Biblioteca%20Wiki/Herramientas/Cursos%20Comunidad/CURSOS%20B%C3%81SICOS/INTRODUCCI%C3%93N%20PYTHON%20REGIONES%202021/Introducci%C3%B3n%20a%20Python%20sesi%C3%B3n%202.mp4?csf=1&web=1&e=nk04V5)
+        - Tipos de datos 2
+        - Funciones avanzadas y modulos
+        - Clases y librerías 
+
+
 
 ## [**Python básico - Skill hacking**](https://bancolombia.sharepoint.com.mcas.ms/sites/co-vsti/SitePages/skill-hacking-rutas-de-conocimiento-lenguajes-python.aspx#python-b%C3%A1sico)
 - **Descripción:** Con el apoyo de Juan David Escobar Escobar y Blaimir Ospina Cardona, del equipo de Transformación y Soporte de Inteligencia de Negocios, se generó este material para aprender los conceptos básicos de este lenguaje que está dando mucho de qué hablar.
