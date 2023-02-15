@@ -45,14 +45,14 @@
             - ¿Qué es un modelo no supervisado?
     - [Conozca los diferentes roles analíticos](https://bancolombia-my.sharepoint.com/:p:/g/personal/josverga_bancolombia_com_co/EXQUS1hURpNJj5yBuojRBAIBJBG_NGhMJ7WYtJsU5gq14w?e=MHjEk0)
     - [Ciclo de vida de un proyecto de analítica de datos](https://bancolombia-my.sharepoint.com/:p:/g/personal/josverga_bancolombia_com_co/ESqbP9ycI9VKko4FlxTB9-gBF_ySUqL5AtueEzI64lN42Q?e=F7SG0t)
-    - Introducción
-    - Metodología CRISP-DM
-        - Entendimiento de negocio
-        - Entendimiento de datos
-        - Preparación de datos
-        - Modelamiento
-        - Evaluación
-        - Despliegue
+        - Introducción
+        - Metodología CRISP-DM
+            - Entendimiento de negocio
+            - Entendimiento de datos
+            - Preparación de datos
+            - Modelamiento
+            - Evaluación
+            - Despliegue
     - Recursos adicionales:
         - [Conozca el plan de formación en Ciencia de datos de Bancolombia](https://bancolombia-my.sharepoint.com/:p:/g/personal/josverga_bancolombia_com_co/Ea1U0gMDu25JrxjgOv6FjX8BE3hVISE_AS-uP-PJXzGdmA?e=3LwQ0C)
 
