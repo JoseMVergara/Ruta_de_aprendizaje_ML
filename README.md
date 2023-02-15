@@ -175,7 +175,7 @@
         - Variable respuesta en modelos analíticos
             - ¿Qué es un modelo supervisado?
             - ¿Qué es un modelo no supervisado?
-    - [Conozca los diferentes roles analíticos](https://bancolombia-my.sharepoint.com/:b:/g/personal/josverga_bancolombia_com_co/EbFwKQDD-cxGn5ekUiWJxuABW0aWkOPFLxG-amn0RqhA7A?e=npIAGE)
+    - [Conozca los diferentes roles analíticos](https://bancolombia-my.sharepoint.com/:p:/g/personal/josverga_bancolombia_com_co/EXQUS1hURpNJj5yBuojRBAIBJBG_NGhMJ7WYtJsU5gq14w?e=MHjEk0)
     - Recursos adicionales:
         - [Conozca el plan de formación en Ciencia de datos de Bancolombia](https://bancolombia-my.sharepoint.com/:p:/g/personal/josverga_bancolombia_com_co/Ea1U0gMDu25JrxjgOv6FjX8BE3hVISE_AS-uP-PJXzGdmA?e=3LwQ0C)
         
