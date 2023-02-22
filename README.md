@@ -2,15 +2,15 @@
 
 Recursos disponibles para aprender las bases de ciencia de datos y machine learning. Esta ruta de aprendizaje consta de cinco modulos. Cada lección incluye maneras diferentes de estudio, entre las cuales podemos encontrar lecturas, contenido audiovisual (videos) y notebooks donde podrás ejecutar tu código a medida que aprendes y resolver retos para evaluar las habilidades aprendidas. Cada uno de las modalidades las podrás identificar al lado del nombre de cada lección con los siguientes iconos:
 
-Lectura: :page_facing_up:
+**Lectura:** :page_facing_up:
 
-Videos: :camera:
+**Videos:** :camera:
 
-Notebooks: :blue_book:
+**Notebooks:** :blue_book:
 
-Tour guiado: :dart:
+**Tour guiado:** :dart:
 
-**Note**: La ruta de aprendizaje se encuentra en constante actualización.
+> **Note**: La ruta de aprendizaje se encuentra en constante actualización.
 
 ![Versión actual de la ruta de aprendizaje](https://img.shields.io/github/manifest-json/v/JoseMVergara/Ruta_de_aprendizaje_ML?color=orange&label=versi%C3%B3n%20actual&logo=version)
 
@@ -286,6 +286,9 @@ https://colab.research.google.com/github/jakevdp/PythonDataScienceHandbook/blob/
 - **Descripción:** Esta demostración lo guía a través de las capacidades exploratorias de la ciencia de datos utilizando nuestro conjunto de herramientas unificado que acelera el ciclo de vida del aprendizaje automático.
 - **Duración:**  1 hora
 - **idioma:** Inglés
+
+
+
 
 
 
