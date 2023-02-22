@@ -1,40 +1,44 @@
 # **Rutas de conocimiento - Científico de Datos**
 
-<!-- | Modulo | Duración | Descripción |
-| ----------- | ----------- | ---------- |
-| [Estadística](#estadística) | x horas | [En construcción]  |
-| [Introducción a la programación en Python](#introducción-a-la-programación-en-python) | x horas |[En construcción]   |
-| [Pandas](#pandas) | 6 horas | Aprenderás todo sobre pandas, la biblioteca de Python más popular para el análisis de datos.  |
-| [Introducción al machine learning](#introducción-al-machine-learning) | x horas |[En construcción]   |
-| [Machine learning intermedio](#machine-learning-intermedio) | x horas |[En construcción]   | -->
+Recursos disponibles para aprender las bases de ciencia de datos y machine learning. Esta ruta de aprendizaje consta de cinco modulos. Cada lección incluye maneras diferentes de estudio, entre las cuales podemos encontrar lecturas, contenido audiovisual (videos) y notebooks donde podrás ejecutar tu código a medida que aprendes y resolver retos para evaluar las habilidades aprendidas. Cada uno de las modalidades las podrás identificar al lado del nombre de cada lección con los siguientes iconos:
+
+    - Lectura: :page_facing_up:
+    - Videos: :camera:
+    - Notebooks: :blue_book:
+    - Tour guiado: :dart:
+
+**Note**: La ruta de aprendizaje se encuentra en constante actualización.
+
+![Versión actual de la ruta de aprendizaje](https://img.shields.io/github/manifest-json/v/JoseMVergara/Ruta_de_aprendizaje_ML?color=orange&label=versi%C3%B3n%20actual&logo=version)
+
+![Última actualización](https://img.shields.io/github/last-commit/JoseMVergara/Ruta_de_aprendizaje_ML?label=%C3%9Altima%20actualizaci%C3%B3n)
+
 
 
 | Modulo | Duración |Lección| Descripción | Fuente|Modalidad|
 |----------- |----------- |----------- |----------- |----------- |----------- |
-|[01-Introducción](#introducción) | 1 hora| [Introducción](#introducción---estrategía-e-innovación-de-ti--bancolombia) | Lectura introductoria al machine learning, además, aprenderás acerca de los diferentes roles analíticos y las bases del ciclo de vida de un proyecto de analítica de datos, el cual, es la secuencia de fases que atraviesa un proyecto desde su inicio hasta su cierre. | Estrategía e Innovación de TI & Bancolombia|Lectura - Presentación|
-|[02-Python](#python)|5 horas|[Introducción a la programación en Python](#introducción-a-la-programación-en-python---kaggle)|Este curso es para usted **si nunca ha escrito una sola línea de código** y está interesado en aprender ciencia de datos y aprendizaje automático. En este curso, aprenderá a usar código para que una computadora realice ciertas tareas por usted. |Kaggle|Lectura y posibilidad de ejecutar tu propio código en Kaggle|
+|[01-Introducción](#introducción) | 1 hora| [Introducción](#introducción---estrategía-e-innovación-de-ti--bancolombia) | Lectura introductoria al machine learning, además, aprenderás acerca de los diferentes roles analíticos y las bases del ciclo de vida de un proyecto de analítica de datos, el cual, es la secuencia de fases que atraviesa un proyecto desde su inicio hasta su cierre. | Estrategía e Innovación de TI & Bancolombia|Lectura - Presentación :page_facing_up:|
+|[02-Python](#python)|5 horas|[Introducción a la programación en Python](#introducción-a-la-programación-en-python---kaggle)|Este curso es para usted **si nunca ha escrito una sola línea de código** y está interesado en aprender ciencia de datos y aprendizaje automático. En este curso, aprenderá a usar código para que una computadora realice ciertas tareas por usted. |Kaggle|Lectura :page_facing_up: y posibilidad de ejecutar tu propio código en Kaggle :blue_book:|
 |[02-Python](#python)|8 horas|[Introducción a Python](#introducción-a-python---capacidades-analíticas-y-gobierno-de-información)|En este espacio puedes encontrar las memorias de los cursos dictados de Python, así puedes repasar, aclarar dudas y reforzar conocimientos.|Capacidades Analíticas y Gobierno de Información|Video|
 |[02-Python](#python)|18 horas|[Python básico](#python-básico---skill-hacking)|Con el apoyo del equipo de Transformación y Soporte de Inteligencia de Negocios, se generó este material para aprender los conceptos básicos de este lenguaje que está dando mucho de qué hablar.|Skill hacking|Video|
-|[03-Pandas](#pandas)|6 horas|[Aprende todos los fundamentas de Pandas](https://github.com/JoseMVergara/Ruta_de_aprendizaje_ML/blob/main/Pandas.md#crear-leer-y-escribir)|Aprenderá a crear sus propios datos y a trabajar con datos que ya existen, seleccionar valores específicos, transformar los datos, agruparlos, reemplazarlos y utilizar funciones. Kaggle|Kaggle | Lectura y posibilidad de ejecutar tu propio código en Kaggle|
-|[04-Estadística](#estadística) | 1 hora|[Estadística para Machine Learning & Inteligencia Artificial](#estadística-para-machine-learning--inteligencia-artificial---estrategía-e-innovación-de-ti)|Estadística y teoría de probabilidad son dos áreas matematícas altamente relacionadas con la Ciencia de datos. Aunque es posible operar datos sin tener un conocimiento profundo en matemáticas, es mejor conocer al menos unos conceptos básicos que ayudarán a la toma de decisiones durante todo el proceso de análisis.|Estrategía e Innovación de TI|Lectura y posibilidad de ejecutar tu propio código en Colab|
-|[05-Machine Learning](#machine-learning) | 5 horas| [Introducción al machine learning en Python](#introducción-al-machine-learning-en-python) | Conozca las ideas principales del aprendizaje automático y cree sus primeros modelos. |Kaggle| Lectura y posibilidad de ejecutar tu propio código en Kaggle|
-|[05-Machine Learning](#machine-learning) | 16 horas| [Machine Learning Intermedio](#machine-learning-intermedio---python-data-science-handbook-by-jake-vanderplas) |  Este capítulo se sumergirá en los aspectos prácticos del aprendizaje automático, principalmente utilizando el paquete Scikit-Learn de Python. Esto no pretende ser una introducción completa al campo del aprendizaje automático; ese es un tema amplio y requiere un enfoque más técnico que el que adoptamos aquí. Tampoco pretende ser un manual completo para el uso del paquete Scikit-Learn.|Jake VanderPlas| Lectura y posibilidad de ejecutar tu propio código en Colab|
-|[05-Machine Learning](#machine-learning) | 5 horas| [Series de tiempo](#series-de-tiempo---kaggle) | Aplique el aprendizaje automático a las tareas de previsión del mundo real.|Kaggle| Lectura y posibilidad de ejecutar tu propio código en Kaggle|
-|[05-Machine Learning](#machine-learning) | 5 horas| [¿Cómo mejorar la calidad de los modelos de ML?](#¿cómo-mejorar-la-calidad-de-los-modelos-de-ml---kaggle) | Si tiene experiencia en aprendizaje automático y te gustaría aprender cómo mejorar rápidamente la calidad de sus modelos, ¡está en el lugar correcto! En este curso, acelerará su experiencia en aprendizaje automático.|Kaggle| Lectura y posibilidad de ejecutar tu propio código en Kaggle|
-|[06-Nube](#nube) | 1 hora| [AWS Sagemaker Office hours](#aws-sagemaker-office-hours---skill-hacking) | Aprende cómo hacer uso de Sagemaker Notebooks y ejecutar tu propio código de Machine learning en la nube de aws.|Skill Hacking|Video|
-|[06-Nube](#nube) | 1 hora| [Exploratory Data Science guided tour](#exploratory-data-science-guided-tour---cloudera) | Esta demostración lo guía a través de las capacidades exploratorias de la ciencia de datos utilizando nuestro conjunto de herramientas unificado que acelera el ciclo de vida del aprendizaje automático.|Cloudera|Tour guiado a traves de la plataforma de Cloudera|
+|[03-Pandas](#pandas)|6 horas|[Aprende todos los fundamentas de Pandas](https://github.com/JoseMVergara/Ruta_de_aprendizaje_ML/blob/main/Pandas.md#crear-leer-y-escribir)|Aprenderá a crear sus propios datos y a trabajar con datos que ya existen, seleccionar valores específicos, transformar los datos, agruparlos, reemplazarlos y utilizar funciones. Kaggle|Kaggle | Lectura :page_facing_up: y posibilidad de ejecutar tu propio código en Kaggle :blue_book:|
+|[04-Estadística](#estadística) | 1 hora|[Estadística para Machine Learning & Inteligencia Artificial](#estadística-para-machine-learning--inteligencia-artificial---estrategía-e-innovación-de-ti)|Estadística y teoría de probabilidad son dos áreas matematícas altamente relacionadas con la Ciencia de datos. Aunque es posible operar datos sin tener un conocimiento profundo en matemáticas, es mejor conocer al menos unos conceptos básicos que ayudarán a la toma de decisiones durante todo el proceso de análisis.|Estrategía e Innovación de TI|Lectura :page_facing_up: y posibilidad de ejecutar tu propio código en Colab :blue_book:|
+|[05-Machine Learning](#machine-learning) | 5 horas| [Introducción al machine learning en Python](#introducción-al-machine-learning-en-python) | Conozca las ideas principales del aprendizaje automático y cree sus primeros modelos. |Kaggle| Lectura :page_facing_up: y posibilidad de ejecutar tu propio código en Kaggle :blue_book:|
+|[05-Machine Learning](#machine-learning) | 16 horas| [Machine Learning Intermedio](#machine-learning-intermedio---python-data-science-handbook-by-jake-vanderplas) |  Este capítulo se sumergirá en los aspectos prácticos del aprendizaje automático, principalmente utilizando el paquete Scikit-Learn de Python. Esto no pretende ser una introducción completa al campo del aprendizaje automático; ese es un tema amplio y requiere un enfoque más técnico que el que adoptamos aquí. Tampoco pretende ser un manual completo para el uso del paquete Scikit-Learn.|Jake VanderPlas| Lectura :page_facing_up: y posibilidad de ejecutar tu propio código en Colab :blue_book:|
+|[05-Machine Learning](#machine-learning) | 5 horas| [Series de tiempo](#series-de-tiempo---kaggle) | Aplique el aprendizaje automático a las tareas de previsión del mundo real.|Kaggle| Lectura :page_facing_up: y posibilidad de ejecutar tu propio código en Kaggle :blue_book:|
+|[05-Machine Learning](#machine-learning) | 5 horas| [¿Cómo mejorar la calidad de los modelos de ML?](#¿cómo-mejorar-la-calidad-de-los-modelos-de-ml---kaggle) | Si tiene experiencia en aprendizaje automático y te gustaría aprender cómo mejorar rápidamente la calidad de sus modelos, ¡está en el lugar correcto! En este curso, acelerará su experiencia en aprendizaje automático.|Kaggle| Lectura :page_facing_up:  y posibilidad de ejecutar tu propio código en Kaggle :blue_book:|
+|[06-Nube](#nube) | 1 hora| [AWS Sagemaker Office hours](#aws-sagemaker-office-hours---skill-hacking) | Aprende cómo hacer uso de Sagemaker Notebooks y ejecutar tu propio código de Machine learning en la nube de aws.|Skill Hacking|Video :camera:|
+|[06-Nube](#nube) | 1 hora| [Exploratory Data Science guided tour](#exploratory-data-science-guided-tour---cloudera) | Esta demostración lo guía a través de las capacidades exploratorias de la ciencia de datos utilizando nuestro conjunto de herramientas unificado que acelera el ciclo de vida del aprendizaje automático.|Cloudera|Tour guiado a traves de la plataforma de Cloudera :dart:|
 
 
 
 # **Introducción**
 
-## Introducción - Estrategía e Innovación de TI & Bancolombia
+## Introducción - Estrategía e Innovación de TI & Bancolombia :page_facing_up:
 - **Descripción:** Lectura introductoria al machine learning, además, aprenderás acerca de los diferentes roles analíticos y las bases del ciclo de vida de un proyecto de analítica de datos, el cual, es la secuencia de fases que atraviesa un proyecto desde su inicio hasta su cierre. 
 
 - **Duración:** 1 hora
 - **Idioma:** Español
-- **Modalidad:**
-    - Lectura - Presentación
 - **Contenido:**
     - [Introducción al Machine learning](https://bancolombia-my.sharepoint.com/:b:/g/personal/josverga_bancolombia_com_co/EbFwKQDD-cxGn5ekUiWJxuABW0aWkOPFLxG-amn0RqhA7A?e=GvQAAJ)
         - Fases de desarollo soluciones analíticas
@@ -89,14 +93,11 @@
 
 
 
-## [**Introducción a la programación en Python - Kaggle**](https://github.com/JoseMVergara/Ruta_de_aprendizaje_ML/blob/main/introduccion_programacion_kaggle.md)
-### :star: **Recomendado**
+## [**Introducción a la programación en Python :page_facing_up: :blue_book: - Kaggle**](https://github.com/JoseMVergara/Ruta_de_aprendizaje_ML/blob/main/introduccion_programacion_kaggle.md)
+- :star: **Recomendado**
 - **Descripción:** Comience con Python, si no tiene experiencia en codificación.
 - **Duración:** 5 horas
 - **idioma:** Inglés
-- **Modalidad:**
-    - Lectura
-    - Explorar y ejecutar tu propio código en Kaggle
 - **Contenido:**
     - [Aritmética y variables](https://github.com/JoseMVergara/Ruta_de_aprendizaje_ML/blob/main/introduccion_programacion_kaggle.md#aritm%C3%A9tica-y-variables)
     - [Funciones](https://github.com/JoseMVergara/Ruta_de_aprendizaje_ML/blob/main/introduccion_programacion_kaggle.md#funciones)
@@ -105,12 +106,10 @@
     - [Introducción a las listas](https://github.com/JoseMVergara/Ruta_de_aprendizaje_ML/blob/main/introduccion_programacion_kaggle.md#introducci%C3%B3n-a-las-listas)
   
 
-## [**Introducción a Python - Capacidades Analíticas y Gobierno de Información**](https://bancolombia.sharepoint.com/:f:/r/sites/co-gin/Documentos%20compartidos/Biblioteca%20Wiki/Herramientas/Cursos%20Comunidad/CURSOS%20B%C3%81SICOS/INTRODUCCI%C3%93N%20A%20PYTHON%202022?csf=1&web=1&e=Av7agb)
+## [**Introducción a Python - Capacidades Analíticas y Gobierno de Información :camera:**](https://bancolombia.sharepoint.com/:f:/r/sites/co-gin/Documentos%20compartidos/Biblioteca%20Wiki/Herramientas/Cursos%20Comunidad/CURSOS%20B%C3%81SICOS/INTRODUCCI%C3%93N%20A%20PYTHON%202022?csf=1&web=1&e=Av7agb)
 - **Descripción:** En este espacio puedes encontrar las memorias de los cursos dictados de Python, así puedes repasar, aclarar dudas y reforzar conocimientos.
 - **Duración:** 8 horas
 - **idioma:** Español
-- **Modalidad:**
-    - Contenido audivisual (Video)
 - **Contenido:**
     - [Sesión 1:](https://bancolombia.sharepoint.com/:v:/r/sites/co-gin/Documentos%20compartidos/Biblioteca%20Wiki/Herramientas/Cursos%20Comunidad/CURSOS%20B%C3%81SICOS/INTRODUCCI%C3%93N%20A%20PYTHON%202022/Python_B%C3%A1sico_Sesion1.mp4?csf=1&web=1&e=Olm5ff)
         - Datos e Historia
@@ -123,13 +122,10 @@
 
 
 
-## [**Python básico - Skill hacking**](https://bancolombia.sharepoint.com.mcas.ms/sites/co-vsti/SitePages/skill-hacking-rutas-de-conocimiento-lenguajes-python.aspx#python-b%C3%A1sico)
+## [**Python básico - Skill hacking :camera:**](https://bancolombia.sharepoint.com.mcas.ms/sites/co-vsti/SitePages/skill-hacking-rutas-de-conocimiento-lenguajes-python.aspx#python-b%C3%A1sico)
 - **Descripción:** Con el apoyo de Juan David Escobar Escobar y Blaimir Ospina Cardona, del equipo de Transformación y Soporte de Inteligencia de Negocios, se generó este material para aprender los conceptos básicos de este lenguaje que está dando mucho de qué hablar.
 - **Duración:**  18 horas
 - **idioma:** Español
-- **Modalidad:**
-    - Contenido audivisual (Video)
-
 - **Contenido:**
     - [Introducción entornos de desarrollo](https://bancolombia.sharepoint.com.mcas.ms/sites/co-vsti/SitePages/skill-hacking-rutas-de-conocimiento-lenguajes-python.aspx#introducci%C3%B3n-entornos-de-desarrollo-(video))
     - [Conceptos básicos](https://bancolombia.sharepoint.com.mcas.ms/sites/co-vsti/SitePages/skill-hacking-rutas-de-conocimiento-lenguajes-python.aspx#conceptos-b%C3%A1sicos-(video))
@@ -144,15 +140,12 @@
 
 # **Pandas**
     
-## [**Aprende todos los fundamentos de Pandas - Kaggle**](https://github.com/JoseMVergara/Ruta_de_aprendizaje_ML/blob/main/Pandas.md)
+## [**Aprende todos los fundamentos de Pandas - Kaggle :page_facing_up: :blue_book:**](https://github.com/JoseMVergara/Ruta_de_aprendizaje_ML/blob/main/Pandas.md)
 - **Descripción:** Con los recursos disponibles, aprenderá todo sobre pandas, la biblioteca de Python más popular para el análisis de datos.
 
     En el camino, completará varios ejercicios prácticos con datos del mundo real. Le recomendamos que trabaje en los ejercicios mientras lee los tutoriales correspondientes.
 - **Duración:** 6 horas
 - **Idioma:** Inglés
-- **Modalidad:**
-    - Lectura
-    - Explorar y ejecutar tu propio código en Kaggle
 - **Contenido:**
     - [Crear, leer y escribir](https://github.com/JoseMVergara/Ruta_de_aprendizaje_ML/blob/main/Pandas.md#crear-leer-y-escribir)
     - [Indexación, selección y asignación](https://github.com/JoseMVergara/Ruta_de_aprendizaje_ML/blob/main/Pandas.md#indexaci%C3%B3n-selecci%C3%B3n-y-asignaci%C3%B3n)
@@ -164,14 +157,11 @@
 
 # **Estadística**
 
-## [**Estadística para Machine Learning & Inteligencia Artificial - Estrategía e Innovación de TI**](https://colab.research.google.com/drive/1WvfS89MGms-tvwVRXzRCOTpCBmiHJaaN?usp=sharing)
+## [**Estadística para Machine Learning & Inteligencia Artificial - Estrategía e Innovación de TI :page_facing_up: :blue_book:**](https://colab.research.google.com/drive/1WvfS89MGms-tvwVRXzRCOTpCBmiHJaaN?usp=sharing)
 
 - **Descripción:** Estadística y teoría de probabilidad son dos áreas matematícas altamente relacionadas con la Ciencia de datos. Aunque es posible operar datos sin tener un conocimiento profundo en matemáticas, es mejor conocer al menos unos conceptos básicos que ayudarán a la toma de decisiones durante todo el proceso de análisis.
 - **Duración:** 1 hora
 - **idioma:** Español
-- **Modalidad:**
-    - Lectura
-    - Explorar y ejecutar tu propio código en Google Colab
 - **Contenido:**
     - [Probabilidad y variables aleatorias](https://colab.research.google.com/drive/1WvfS89MGms-tvwVRXzRCOTpCBmiHJaaN#scrollTo=_zsQMbEglxCQ&line=1&uniqifier=1)
     - [Distribuciones de probabilidad y principales medidas](https://colab.research.google.com/drive/1WvfS89MGms-tvwVRXzRCOTpCBmiHJaaN#scrollTo=zVAZB6X9l8eJ) 
@@ -182,14 +172,11 @@
 
 # **Machine Learning**
 
-## [**Introducción al machine learning en Python**](https://github.com/JoseMVergara/Ruta_de_aprendizaje_ML/blob/main/Intro_ML.md)
+## [**Introducción al machine learning en Python :page_facing_up: :blue_book:**](https://github.com/JoseMVergara/Ruta_de_aprendizaje_ML/blob/main/Intro_ML.md)
 - **Descripción:** Conozca las ideas principales del aprendizaje automático y cree sus primeros modelos.
 
 - **Duración:** 5 horas
 - **Idioma:** Inglés
-- **Modalidad:**
-    - Lectura
-    - Explorar y ejecutar tu propio código en Kaggle
 - **Contenido:**
     - [Cómo funcionan los modelos de machine learning](https://github.com/JoseMVergara/Ruta_de_aprendizaje_ML/blob/main/Intro_ML.md#c%C3%B3mo-funcionan-los-modelos-de-machine-learning)
     - [taxonomia de los modelos de ML](https://github.com/JoseMVergara/Ruta_de_aprendizaje_ML/blob/main/ML_Taxonomia.md)
@@ -199,7 +186,7 @@
     - [Subajuste y sobreajuste (underfitting - overfitting)](https://github.com/JoseMVergara/Ruta_de_aprendizaje_ML/blob/main/Intro_ML.md#subajuste-y-sobreajuste-underfitting---overfitting)
 
 
-## **Machine learning intermedio -  Python Data Science Handbook by Jake VanderPlas**
+## **Machine learning intermedio -  Python Data Science Handbook by Jake VanderPlas :page_facing_up: :blue_book:**
 - **Descripción:** Este capítulo se sumergirá en los aspectos prácticos del aprendizaje automático, principalmente utilizando el paquete Scikit-Learn de Python. Esto no pretende ser una introducción completa al campo del aprendizaje automático; ese es un tema amplio y requiere un enfoque más técnico que el que adoptamos aquí. Tampoco pretende ser un manual completo para el uso del paquete Scikit-Learn. Más bien, los objetivos de este capítulo son:
 
     -  Introducir el vocabulario y los conceptos fundamentales del aprendizaje automático.
@@ -207,9 +194,6 @@
     - Profundizar en los detalles de varios de los enfoques de aprendizaje automático más importantes y desarrollar una intuición sobre cómo funcionan y cuándo y dónde son aplicables.
 - **Duración:** 16 horas
 - **Idioma:** Inglés
-- **Modalidad:**
-    - Lectura
-    - Explorar y ejecutar tu propio código en Google Colab
 - **Contenido:**
     - [Refuerza tu conocimiento: Conceptos fundamentales del machine learning.](https://colab.research.google.com/github/jakevdp/PythonDataScienceHandbook/blob/master/notebooks/05.01-What-Is-Machine-Learning.ipynb#scrollTo=qXNmzTMrdYl-)
     - [Introducción a Scikit-Learn](https://colab.research.google.com/github/jakevdp/PythonDataScienceHandbook/blob/master/notebooks/05.02-Introducing-Scikit-Learn.ipynb#scrollTo=nUIxlZdRdUHD)
@@ -249,14 +233,11 @@
 
 
 
-## [**Series de tiempo - Kaggle**](https://github.com/JoseMVergara/Ruta_de_aprendizaje_ML/blob/main/TimeSeries.md)
+## [**Series de tiempo - Kaggle :page_facing_up: :blue_book:**](https://github.com/JoseMVergara/Ruta_de_aprendizaje_ML/blob/main/TimeSeries.md)
 - **Descripción:** Aplique el aprendizaje automático a las tareas de previsión del mundo real.
 
 - **Duración:** 5 horas
 - **Idioma:** Inglés
-- **Modalidad:**
-    - Lectura
-    - Explorar y ejecutar tu propio código en Kaggle
 - **Contenido:**
     - [Regresión lineal con series de tiempo](https://github.com/JoseMVergara/Ruta_de_aprendizaje_ML/blob/main/TimeSeries.md#regresi%C3%B3n-lineal-con-series-de-tiempo)
     - [Tendencia](https://github.com/JoseMVergara/Ruta_de_aprendizaje_ML/blob/main/TimeSeries.md#tendencia)
@@ -266,14 +247,11 @@
     - [Pronóstico con aprendizaje automático (ML)](https://github.com/JoseMVergara/Ruta_de_aprendizaje_ML/blob/main/TimeSeries.md#pron%C3%B3stico-con-aprendizaje-autom%C3%A1tico-ml)
 
 
-## [**¿Cómo mejorar la calidad de los modelos de ML? - Kaggle**](https://github.com/JoseMVergara/Ruta_de_aprendizaje_ML/blob/main/Mid_ML.md)
+## [**¿Cómo mejorar la calidad de los modelos de ML? - Kaggle :page_facing_up: :blue_book:**](https://github.com/JoseMVergara/Ruta_de_aprendizaje_ML/blob/main/Mid_ML.md)
 - **Descripción:** Si tiene experiencia en aprendizaje automático y te gustaría aprender cómo mejorar rápidamente la calidad de sus modelos, ¡está en el lugar correcto! En este curso, acelerará su experiencia en aprendizaje automático.
 
 - **Duración:** 5 horas
 - **Idioma:** Inglés
-- **Modalidad:**
-    - Lectura
-    - Explorar y ejecutar tu propio código en Kaggle
 - **Contenido:**
     - [Valores faltantes](https://github.com/JoseMVergara/Ruta_de_aprendizaje_ML/blob/main/Mid_ML.md#valores-faltantes)
     - [Variables categoricas](https://github.com/JoseMVergara/Ruta_de_aprendizaje_ML/blob/main/Mid_ML.md#variables-categoricas)
@@ -295,18 +273,16 @@ https://colab.research.google.com/github/jakevdp/PythonDataScienceHandbook/blob/
 
 # **Nube**
 
-## [**AWS Sagemaker Office hours - Skill hacking**](https://bancolombia.sharepoint.com/:v:/r/teams/PortaldeconocimientosTI/Documentos%20compartidos/General/AWS/OA07012020-SageMaker.mp4?csf=1&web=1&e=XAlygY)
+## [**AWS Sagemaker Office hours - Skill hacking :camera:**](https://bancolombia.sharepoint.com/:v:/r/teams/PortaldeconocimientosTI/Documentos%20compartidos/General/AWS/OA07012020-SageMaker.mp4?csf=1&web=1&e=XAlygY)
 - **Descripción:** Aprende cómo hacer uso de Sagemaker Notebooks y ejecutar tu propio código de Machine learning en la nube de aws.
 - **Duración:**  1 hora
 - **idioma:** Español
-- **Modalidad:**
-    - Contenido audivisual (Video)
 
-## [**Exploratory Data Science guided tour - Cloudera**](https://es.cloudera.com/products/machine-learning/cdp-tour-machine-learning.html)
+
+## [**Exploratory Data Science guided tour - Cloudera :dart:**](https://es.cloudera.com/products/machine-learning/cdp-tour-machine-learning.html)
 - **Descripción:** Esta demostración lo guía a través de las capacidades exploratorias de la ciencia de datos utilizando nuestro conjunto de herramientas unificado que acelera el ciclo de vida del aprendizaje automático.
 - **Duración:**  1 hora
 - **idioma:** Inglés
-- **Modalidad:**
-    - Tour guiado a traves de la plataforma de Cloudera
+
 
 
