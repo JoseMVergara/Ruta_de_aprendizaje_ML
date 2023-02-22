@@ -90,7 +90,7 @@
 
 
 ## [**Introducción a la programación en Python - Kaggle**](https://github.com/JoseMVergara/Ruta_de_aprendizaje_ML/blob/main/introduccion_programacion_kaggle.md)
-- :star: **Recomendado**
+### :star: **Recomendado**
 - **Descripción:** Comience con Python, si no tiene experiencia en codificación.
 - **Duración:** 5 horas
 - **idioma:** Inglés
