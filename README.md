@@ -2,10 +2,13 @@
 
 Recursos disponibles para aprender las bases de ciencia de datos y machine learning. Esta ruta de aprendizaje consta de cinco modulos. Cada lección incluye maneras diferentes de estudio, entre las cuales podemos encontrar lecturas, contenido audiovisual (videos) y notebooks donde podrás ejecutar tu código a medida que aprendes y resolver retos para evaluar las habilidades aprendidas. Cada uno de las modalidades las podrás identificar al lado del nombre de cada lección con los siguientes iconos:
 
-    - Lectura: :page_facing_up:
-    - Videos: :camera:
-    - Notebooks: :blue_book:
-    - Tour guiado: :dart:
+Lectura: :page_facing_up:
+
+Videos: :camera:
+
+Notebooks: :blue_book:
+
+Tour guiado: :dart:
 
 **Note**: La ruta de aprendizaje se encuentra en constante actualización.
 
@@ -19,8 +22,8 @@ Recursos disponibles para aprender las bases de ciencia de datos y machine learn
 |----------- |----------- |----------- |----------- |----------- |----------- |
 |[01-Introducción](#introducción) | 1 hora| [Introducción](#introducción---estrategía-e-innovación-de-ti--bancolombia) | Lectura introductoria al machine learning, además, aprenderás acerca de los diferentes roles analíticos y las bases del ciclo de vida de un proyecto de analítica de datos, el cual, es la secuencia de fases que atraviesa un proyecto desde su inicio hasta su cierre. | Estrategía e Innovación de TI & Bancolombia|Lectura - Presentación :page_facing_up:|
 |[02-Python](#python)|5 horas|[Introducción a la programación en Python](#introducción-a-la-programación-en-python---kaggle)|Este curso es para usted **si nunca ha escrito una sola línea de código** y está interesado en aprender ciencia de datos y aprendizaje automático. En este curso, aprenderá a usar código para que una computadora realice ciertas tareas por usted. |Kaggle|Lectura :page_facing_up: y posibilidad de ejecutar tu propio código en Kaggle :blue_book:|
-|[02-Python](#python)|8 horas|[Introducción a Python](#introducción-a-python---capacidades-analíticas-y-gobierno-de-información)|En este espacio puedes encontrar las memorias de los cursos dictados de Python, así puedes repasar, aclarar dudas y reforzar conocimientos.|Capacidades Analíticas y Gobierno de Información|Video|
-|[02-Python](#python)|18 horas|[Python básico](#python-básico---skill-hacking)|Con el apoyo del equipo de Transformación y Soporte de Inteligencia de Negocios, se generó este material para aprender los conceptos básicos de este lenguaje que está dando mucho de qué hablar.|Skill hacking|Video|
+|[02-Python](#python)|8 horas|[Introducción a Python](#introducción-a-python---capacidades-analíticas-y-gobierno-de-información)|En este espacio puedes encontrar las memorias de los cursos dictados de Python, así puedes repasar, aclarar dudas y reforzar conocimientos.|Capacidades Analíticas y Gobierno de Información|Video :camera:|
+|[02-Python](#python)|18 horas|[Python básico](#python-básico---skill-hacking)|Con el apoyo del equipo de Transformación y Soporte de Inteligencia de Negocios, se generó este material para aprender los conceptos básicos de este lenguaje que está dando mucho de qué hablar.|Skill hacking|Video :camera:|
 |[03-Pandas](#pandas)|6 horas|[Aprende todos los fundamentas de Pandas](https://github.com/JoseMVergara/Ruta_de_aprendizaje_ML/blob/main/Pandas.md#crear-leer-y-escribir)|Aprenderá a crear sus propios datos y a trabajar con datos que ya existen, seleccionar valores específicos, transformar los datos, agruparlos, reemplazarlos y utilizar funciones. Kaggle|Kaggle | Lectura :page_facing_up: y posibilidad de ejecutar tu propio código en Kaggle :blue_book:|
 |[04-Estadística](#estadística) | 1 hora|[Estadística para Machine Learning & Inteligencia Artificial](#estadística-para-machine-learning--inteligencia-artificial---estrategía-e-innovación-de-ti)|Estadística y teoría de probabilidad son dos áreas matematícas altamente relacionadas con la Ciencia de datos. Aunque es posible operar datos sin tener un conocimiento profundo en matemáticas, es mejor conocer al menos unos conceptos básicos que ayudarán a la toma de decisiones durante todo el proceso de análisis.|Estrategía e Innovación de TI|Lectura :page_facing_up: y posibilidad de ejecutar tu propio código en Colab :blue_book:|
 |[05-Machine Learning](#machine-learning) | 5 horas| [Introducción al machine learning en Python](#introducción-al-machine-learning-en-python) | Conozca las ideas principales del aprendizaje automático y cree sus primeros modelos. |Kaggle| Lectura :page_facing_up: y posibilidad de ejecutar tu propio código en Kaggle :blue_book:|
@@ -93,7 +96,7 @@ Recursos disponibles para aprender las bases de ciencia de datos y machine learn
 
 
 
-## [**Introducción a la programación en Python :page_facing_up: :blue_book: - Kaggle**](https://github.com/JoseMVergara/Ruta_de_aprendizaje_ML/blob/main/introduccion_programacion_kaggle.md)
+## [**Introducción a la programación en Python - Kaggle :page_facing_up: :blue_book:**](https://github.com/JoseMVergara/Ruta_de_aprendizaje_ML/blob/main/introduccion_programacion_kaggle.md)
 - :star: **Recomendado**
 - **Descripción:** Comience con Python, si no tiene experiencia en codificación.
 - **Duración:** 5 horas
