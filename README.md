@@ -97,7 +97,6 @@ Recursos disponibles para aprender las bases de ciencia de datos y machine learn
 
 
 ## [**Introducción a la programación en Python - Kaggle :page_facing_up: :blue_book:**](https://github.com/JoseMVergara/Ruta_de_aprendizaje_ML/blob/main/introduccion_programacion_kaggle.md)
-- :star: **Recomendado**
 - **Descripción:** Comience con Python, si no tiene experiencia en codificación.
 - **Duración:** 5 horas
 - **idioma:** Inglés
