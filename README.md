@@ -26,7 +26,7 @@ Los roles analíticos son una parte vital de cualquier organización moderna que
 - Perfilación de clientes.
 
 > **Warning** : La ruta de conocimiento para analista de datos se encuentra en construcción
-
+---
 **Científico de Datos :scientist: :** Un científico de datos es un experto en el análisis estadístico y el aprendizaje automático que utiliza técnicas avanzadas para descubrir patrones y tendencias en los datos que son difíciles de detectar de otra manera. Se encarga de entender las necesidades del negocio para diseñar y ejecutar procesos desde la transformación de datos hasta el modelado de datos creando algoritmos y/o modelos analíticos que resuelvan las necesidades propuestas, realizando análisis personalizados sobre los modelos y comunicando las soluciones y resultados obtenidos de forma practica y eficaz. Posibles trabajos a realizar:​
 
  - Aplica modelos analíticos a una base de datos para disminuir la incertidumbre de una decisión​.
@@ -36,6 +36,7 @@ Los roles analíticos son una parte vital de cualquier organización moderna que
 
 :white_check_mark: Puedes acceder a la ruta de conocimiento para científico/a de datos haciendo click [aquí](https://github.com/JoseMVergara/Ruta_de_aprendizaje_ML/blob/main/Cientifico_datos.md).
 
+---
 
 
 
@@ -48,7 +49,7 @@ Los roles analíticos son una parte vital de cualquier organización moderna que
 - Como crear visualización optimas para los consumidores
 
 > **Note** : No habrá ruta de conocimiento para Arquitecto de datos dentro de nuestros recursos disponibles. 
-
+---
 **Ingeniero de Datos :mechanic: :** Un ingeniero de datos es un profesional que se encarga de construir y mantener la infraestructura de datos de una empresa. Esto incluye la creación y gestión de bases de datos, la integración de datos de múltiples fuentes y la creación de flujos de datos automatizados. Tiene como objetivo la transformación de datos, integrando diversas fuentes. Así como crear herramientas o frameworks que hagan que los datos tengan calidad y que los procesos con estos sean cada vez más automáticos. Posibles trabajos a realizar:​
 
 -   Carga de información automática​
@@ -60,3 +61,4 @@ Los roles analíticos son una parte vital de cualquier organización moderna que
 - Calendarizaciones
 
 > **Warning** : La ruta de conocimiento para Ingeniero de datos se encuentra en construcción
+---
