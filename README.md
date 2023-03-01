@@ -53,11 +53,8 @@ Los roles analíticos son una parte vital de cualquier organización moderna que
 **Ingeniero/a de Datos :mechanic: :** Un ingeniero de datos es un profesional que se encarga de construir y mantener la infraestructura de datos de una empresa. Esto incluye la creación y gestión de bases de datos, la integración de datos de múltiples fuentes y la creación de flujos de datos automatizados. Tiene como objetivo la transformación de datos, integrando diversas fuentes. Así como crear herramientas o frameworks que hagan que los datos tengan calidad y que los procesos con estos sean cada vez más automáticos. Posibles trabajos a realizar:​
 
 -   Carga de información automática​
-
 - Transformación y unión de información automática​
-
 - Creación de herramientas para análisis autónomos de información​
-
 - Calendarizaciones
 
 > **Warning** : La ruta de conocimiento para Ingeniero de datos se encuentra en construcción
