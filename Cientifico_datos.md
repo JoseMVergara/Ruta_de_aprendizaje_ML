@@ -1,6 +1,10 @@
 # **Rutas de conocimiento - Científico de Datos :scientist:**
 
-Recursos disponibles para aprender las bases de ciencia de datos y machine learning. Esta ruta de aprendizaje consta de cinco modulos. Cada lección incluye maneras diferentes de estudio, entre las cuales podemos encontrar lecturas, contenido audiovisual (videos) y notebooks donde podrás ejecutar tu código a medida que aprendes y resolver retos para evaluar las habilidades aprendidas. Cada uno de las modalidades las podrás identificar al lado del nombre de cada lección con los siguientes iconos:
+¡Bienvenido! Si estás buscando llevar tus habilidades de análisis de datos al siguiente nivel, has llegado al lugar correcto. Este curso está diseñado para aquellos que quieren convertirse en científicos de datos y están listos para profundizar en el mundo del análisis de datos y el aprendizaje automático.
+
+Los científicos de datos son capaces de utilizar los datos para identificar patrones, predecir tendencias y tomar decisiones informadas. No importa si ya tienes experiencia en análisis de datos o si eres nuevo en este campo. Lo importante es tener la pasión y la motivación para aprender y crecer en tu carrera. 
+
+Esta ruta de aprendizaje consta de cinco modulos. Cada lección incluye maneras diferentes de estudio, entre las cuales podemos encontrar lecturas, contenido audiovisual (videos) y notebooks donde podrás ejecutar tu código a medida que aprendes y resolver retos para evaluar las habilidades aprendidas. Cada uno de las modalidades las podrás identificar al lado del nombre de cada lección con los siguientes iconos:
 
 **Lectura:** :page_facing_up:
 
@@ -51,6 +55,7 @@ Recursos disponibles para aprender las bases de ciencia de datos y machine learn
             - ¿Qué es un modelo supervisado?
             - ¿Qué es un modelo no supervisado?
     - [Conozca los diferentes roles analíticos](https://bancolombia-my.sharepoint.com/:p:/g/personal/josverga_bancolombia_com_co/EXQUS1hURpNJj5yBuojRBAIBJBG_NGhMJ7WYtJsU5gq14w?e=MHjEk0)
+    - [Roles en los datos según microsoft](https://learn.microsoft.com/es-mx/training/modules/data-analytics-microsoft/3-roles)(opcional)
     - [Ciclo de vida de un proyecto de analítica de datos](https://bancolombia-my.sharepoint.com/:p:/g/personal/josverga_bancolombia_com_co/ESqbP9ycI9VKko4FlxTB9-gBF_ySUqL5AtueEzI64lN42Q?e=F7SG0t)
         - Introducción
         - Metodología CRISP-DM
