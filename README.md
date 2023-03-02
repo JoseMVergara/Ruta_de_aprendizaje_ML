@@ -25,7 +25,10 @@ Los roles analíticos son una parte vital de cualquier organización moderna que
 - Cruces de información.
 - Perfilación de clientes.
 
-> **Warning** : La ruta de conocimiento para analista de datos se encuentra en construcción
+:white_check_mark: Puedes acceder a la ruta de conocimiento para analista de datos haciendo click [aquí](https://github.com/JoseMVergara/Ruta_de_aprendizaje_ML/blob/main/analista_datos.md).
+
+
+
 ---
 **Científico/a de Datos :scientist: :** Un científico de datos es un experto en el análisis estadístico y el aprendizaje automático que utiliza técnicas avanzadas para descubrir patrones y tendencias en los datos que son difíciles de detectar de otra manera. Se encarga de entender las necesidades del negocio para diseñar y ejecutar procesos desde la transformación de datos hasta el modelado de datos creando algoritmos y/o modelos analíticos que resuelvan las necesidades propuestas, realizando análisis personalizados sobre los modelos y comunicando las soluciones y resultados obtenidos de forma practica y eficaz. Posibles trabajos a realizar:​
 
@@ -37,8 +40,6 @@ Los roles analíticos son una parte vital de cualquier organización moderna que
 :white_check_mark: Puedes acceder a la ruta de conocimiento para científico/a de datos haciendo click [aquí](https://github.com/JoseMVergara/Ruta_de_aprendizaje_ML/blob/main/Cientifico_datos.md).
 
 ---
-
-
 
 
 
