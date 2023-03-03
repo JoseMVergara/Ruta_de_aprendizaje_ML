@@ -173,10 +173,10 @@ No se requiere experiencia previa en análisis de datos. Lo importante es tener 
     - Algunas funciones interesantes de Definición y administración de datos 
 
 - Enlace a sesiones:
-    - [Sesión 1 :camera:](https://bancolombia.sharepoint.com.mcas.ms/:p:/r/sites/co-gin/_layouts/15/Doc.aspx?sourcedoc=%7BE98E3604-4AFB-4E11-A8EE-ACA9BF11BC00%7D&file=Taller%20SQL%20%E2%80%93%20Sesi%C3%B3n%201.pptx&action=edit&mobileredirect=true)
-    - [Sesión 2 :camera:](https://bancolombia.sharepoint.com.mcas.ms/:p:/r/sites/co-gin/_layouts/15/Doc.aspx?sourcedoc=%7B1D0C812E-4C9C-474D-BDE7-2461D1711EEA%7D&file=Taller%20SQL%20%E2%80%93%20Sesi%C3%B3n%202.pptx&action=edit&mobileredirect=true)
-    - [Sesión 3  :camera:](https://bancolombia.sharepoint.com.mcas.ms/:p:/r/sites/co-gin/_layouts/15/Doc.aspx?sourcedoc=%7B9DDC24CD-5E9D-4FA9-89EC-C3F99DD264E3%7D&file=Taller%20SQL%20%E2%80%93%20Sesi%C3%B3n%203.pptx&action=edit&mobileredirect=true)
-    - [Sesión 4 :camera:](https://bancolombia.sharepoint.com.mcas.ms/:p:/r/sites/co-gin/_layouts/15/Doc.aspx?sourcedoc=%7B05F71425-2994-49F2-B788-5DF3FF537B76%7D&file=Taller%20SQL%20%E2%80%93%20Sesi%C3%B3n%204.pptx&action=edit&mobileredirect=true)
+    - [Sesión 1 :page_facing_up:](https://bancolombia.sharepoint.com.mcas.ms/:p:/r/sites/co-gin/_layouts/15/Doc.aspx?sourcedoc=%7BE98E3604-4AFB-4E11-A8EE-ACA9BF11BC00%7D&file=Taller%20SQL%20%E2%80%93%20Sesi%C3%B3n%201.pptx&action=edit&mobileredirect=true)
+    - [Sesión 2 :page_facing_up:](https://bancolombia.sharepoint.com.mcas.ms/:p:/r/sites/co-gin/_layouts/15/Doc.aspx?sourcedoc=%7B1D0C812E-4C9C-474D-BDE7-2461D1711EEA%7D&file=Taller%20SQL%20%E2%80%93%20Sesi%C3%B3n%202.pptx&action=edit&mobileredirect=true)
+    - [Sesión 3  :page_facing_up:](https://bancolombia.sharepoint.com.mcas.ms/:p:/r/sites/co-gin/_layouts/15/Doc.aspx?sourcedoc=%7B9DDC24CD-5E9D-4FA9-89EC-C3F99DD264E3%7D&file=Taller%20SQL%20%E2%80%93%20Sesi%C3%B3n%203.pptx&action=edit&mobileredirect=true)
+    - [Sesión 4 :page_facing_up:](https://bancolombia.sharepoint.com.mcas.ms/:p:/r/sites/co-gin/_layouts/15/Doc.aspx?sourcedoc=%7B05F71425-2994-49F2-B788-5DF3FF537B76%7D&file=Taller%20SQL%20%E2%80%93%20Sesi%C3%B3n%204.pptx&action=edit&mobileredirect=true)
 
 # falta:
     Estadistica y toma de decisiones
