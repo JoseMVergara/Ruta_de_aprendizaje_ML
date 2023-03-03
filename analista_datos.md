@@ -178,14 +178,25 @@ No se requiere experiencia previa en análisis de datos. Lo importante es tener 
     - [Sesión 3  :page_facing_up:](https://bancolombia.sharepoint.com.mcas.ms/:p:/r/sites/co-gin/_layouts/15/Doc.aspx?sourcedoc=%7B9DDC24CD-5E9D-4FA9-89EC-C3F99DD264E3%7D&file=Taller%20SQL%20%E2%80%93%20Sesi%C3%B3n%203.pptx&action=edit&mobileredirect=true)
     - [Sesión 4 :page_facing_up:](https://bancolombia.sharepoint.com.mcas.ms/:p:/r/sites/co-gin/_layouts/15/Doc.aspx?sourcedoc=%7B05F71425-2994-49F2-B788-5DF3FF537B76%7D&file=Taller%20SQL%20%E2%80%93%20Sesi%C3%B3n%204.pptx&action=edit&mobileredirect=true)
 
-# falta:
+
+## [**Introducción a la programación en Python - Kaggle :page_facing_up: :blue_book:**](https://github.com/JoseMVergara/Ruta_de_aprendizaje_ML/blob/main/introduccion_programacion_kaggle.md)
+- **Descripción:** Comience con Python, si no tiene experiencia en codificación.
+- **Duración:** 5 horas
+- **idioma:** Inglés
+- **Contenido:**
+    - [Aritmética y variables](https://github.com/JoseMVergara/Ruta_de_aprendizaje_ML/blob/main/introduccion_programacion_kaggle.md#aritm%C3%A9tica-y-variables)
+    - [Funciones](https://github.com/JoseMVergara/Ruta_de_aprendizaje_ML/blob/main/introduccion_programacion_kaggle.md#funciones)
+    - [Tipos de datos](https://github.com/JoseMVergara/Ruta_de_aprendizaje_ML/blob/main/introduccion_programacion_kaggle.md#tipos-de-datos)
+    - [Condiciones y Declaraciones Condicionales](https://github.com/JoseMVergara/Ruta_de_aprendizaje_ML/blob/main/introduccion_programacion_kaggle.md#condiciones-y-declaraciones-condicionales)
+    - [Introducción a las listas](https://github.com/JoseMVergara/Ruta_de_aprendizaje_ML/blob/main/introduccion_programacion_kaggle.md#introducci%C3%B3n-a-las-listas)
+
+
+<!-- # falta:
     Estadistica y toma de decisiones
     EDA
     opcionales:
-        SQL
-        Programación en python
         EDA python
-        Visualizacion python
+        Visualizacion python: https://www.kaggle.com/learn/data-visualization -->
 
 
 
