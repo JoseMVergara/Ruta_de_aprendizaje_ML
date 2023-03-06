@@ -191,6 +191,23 @@ No se requiere experiencia previa en análisis de datos. Lo importante es tener 
     - [Introducción a las listas](https://github.com/JoseMVergara/Ruta_de_aprendizaje_ML/blob/main/introduccion_programacion_kaggle.md#introducci%C3%B3n-a-las-listas)
 
 
+
+## [**Visualización de datos en Python - Kaggle :page_facing_up: :blue_book:**](https://github.com/JoseMVergara/Ruta_de_aprendizaje_ML/blob/main/python_visualizacion_datos)
+- **Descripción:** En este curso práctico, aprenderá cómo llevar sus visualizaciones de datos al siguiente nivel con seaborn, una herramienta de visualización de datos poderosa pero fácil de usar. Para usar seaborn, también aprenderá un poco sobre cómo escribir código en Python, un lenguaje de programación popular. Dicho esto, realice excelentes visualizaciones de datos. ¡Una gran manera de ver el poder de la codificación!
+
+- **Duración:** 4 horas
+- **idioma:** Inglés
+- **Contenido:**
+    - [Seaborn]()
+    - [Gráficos de línea ]()
+    - [Gráficos de barras y mapas de calor]()
+    - [Gráficos de dispersión]()
+    - [Distribuciones]()
+    - [Escoger tipos de gráficos y estilos personalizados]()
+    - [Proyecto final]()
+    - [Creando tus propios notebooks]()
+
+
 <!-- # falta:
     Estadistica y toma de decisiones
     EDA
