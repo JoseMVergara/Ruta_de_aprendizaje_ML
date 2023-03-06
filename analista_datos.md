@@ -18,6 +18,8 @@ No se requiere experiencia previa en análisis de datos. Lo importante es tener 
 
 > **Note**: La ruta de aprendizaje se encuentra en constante actualización.
 
+> **Note**: Encontrarás el simbolo :exclamation:  para aquellas lecciones opcionales. Solo si deseas aprender ciertas habilidades específicas y llevar tus habilidades como analista de datos a un siguiente nivel. 
+
 ![Versión actual de la ruta de aprendizaje](https://img.shields.io/github/manifest-json/v/JoseMVergara/Ruta_de_aprendizaje_ML?color=orange&label=versi%C3%B3n%20actual&logo=version)
 
 ![Última actualización](https://img.shields.io/github/last-commit/JoseMVergara/Ruta_de_aprendizaje_ML?label=%C3%9Altima%20actualizaci%C3%B3n)
@@ -179,7 +181,7 @@ No se requiere experiencia previa en análisis de datos. Lo importante es tener 
     - [Sesión 4 :page_facing_up:](https://bancolombia.sharepoint.com.mcas.ms/:p:/r/sites/co-gin/_layouts/15/Doc.aspx?sourcedoc=%7B05F71425-2994-49F2-B788-5DF3FF537B76%7D&file=Taller%20SQL%20%E2%80%93%20Sesi%C3%B3n%204.pptx&action=edit&mobileredirect=true)
 
 
-## [**Introducción a la programación en Python - Kaggle :page_facing_up: :blue_book:**](https://github.com/JoseMVergara/Ruta_de_aprendizaje_ML/blob/main/introduccion_programacion_kaggle.md)
+## [** :exclamation: Introducción a la programación en Python - Kaggle :page_facing_up: :blue_book:**](https://github.com/JoseMVergara/Ruta_de_aprendizaje_ML/blob/main/introduccion_programacion_kaggle.md)
 - **Descripción:** Comience con Python, si no tiene experiencia en codificación.
 - **Duración:** 5 horas
 - **idioma:** Inglés
@@ -192,20 +194,20 @@ No se requiere experiencia previa en análisis de datos. Lo importante es tener 
 
 
 
-## [**Visualización de datos en Python - Kaggle :page_facing_up: :blue_book:**](https://github.com/JoseMVergara/Ruta_de_aprendizaje_ML/blob/main/python_visualizacion_datos)
+## [** :exclamation: Visualización de datos en Python - Kaggle :page_facing_up: :blue_book:**](https://github.com/JoseMVergara/Ruta_de_aprendizaje_ML/blob/main/python_visualizacion_datos.md)
 - **Descripción:** En este curso práctico, aprenderá cómo llevar sus visualizaciones de datos al siguiente nivel con seaborn, una herramienta de visualización de datos poderosa pero fácil de usar. Para usar seaborn, también aprenderá un poco sobre cómo escribir código en Python, un lenguaje de programación popular. Dicho esto, realice excelentes visualizaciones de datos. ¡Una gran manera de ver el poder de la codificación!
 
 - **Duración:** 4 horas
 - **idioma:** Inglés
 - **Contenido:**
-    - [Seaborn]()
-    - [Gráficos de línea ]()
-    - [Gráficos de barras y mapas de calor]()
-    - [Gráficos de dispersión]()
-    - [Distribuciones]()
-    - [Escoger tipos de gráficos y estilos personalizados]()
-    - [Proyecto final]()
-    - [Creando tus propios notebooks]()
+    - [Seaborn](https://github.com/JoseMVergara/Ruta_de_aprendizaje_ML/blob/main/python_visualizacion_datos.md#seaborn)
+    - [Gráficos de línea ](https://github.com/JoseMVergara/Ruta_de_aprendizaje_ML/blob/main/python_visualizacion_datos.md#gr%C3%A1ficos-de-l%C3%ADnea)
+    - [Gráficos de barras y mapas de calor](https://github.com/JoseMVergara/Ruta_de_aprendizaje_ML/blob/main/python_visualizacion_datos.md#gr%C3%A1ficos-de-barras-y-mapas-de-calor)
+    - [Gráficos de dispersión](https://github.com/JoseMVergara/Ruta_de_aprendizaje_ML/blob/main/python_visualizacion_datos.md#gr%C3%A1ficos-de-dispersi%C3%B3n)
+    - [Distribuciones](https://github.com/JoseMVergara/Ruta_de_aprendizaje_ML/blob/main/python_visualizacion_datos.md#distribuciones)
+    - [Escoger tipos de gráficos y estilos personalizados](https://github.com/JoseMVergara/Ruta_de_aprendizaje_ML/blob/main/python_visualizacion_datos.md#escoger-tipos-de-gr%C3%A1ficos-y-estilos-personalizados)
+    - [Proyecto final](https://github.com/JoseMVergara/Ruta_de_aprendizaje_ML/blob/main/python_visualizacion_datos.md#proyecto-final)
+    - [Creando tus propios notebooks](https://github.com/JoseMVergara/Ruta_de_aprendizaje_ML/blob/main/python_visualizacion_datos.md#creando-tus-propios-notebooks)
 
 
 <!-- # falta:
@@ -213,8 +215,6 @@ No se requiere experiencia previa en análisis de datos. Lo importante es tener 
     EDA
     opcionales:
         EDA python
-        Visualizacion python: https://www.kaggle.com/learn/data-visualization -->
-
 
 
 
