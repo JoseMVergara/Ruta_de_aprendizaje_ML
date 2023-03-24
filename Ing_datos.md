@@ -28,13 +28,29 @@ No se requiere experiencia previa en ingeniería de datos, ya que el curso está
 
 | Modulo | Duración |Lección| Descripción | Fuente|Modalidad|
 |----------- |----------- |----------- |----------- |----------- |----------- |
-|[01-Introducción](#introducción) | 1 hora| [Descripción del análisis de datos ](#descripción-del-análisis-de-datos---microsoft-pagefacingup) | Le gustaría explorar la labor de un analista de datos y saber cómo cuenta una historia con datos? En este módulo, explorará los diferentes roles en los datos y aprenderá las distintas tareas de un analista de datos. | Microsoft |Lectura :page_facing_up:|
-
-
-
-
-
-
+|[01-Introducción y conceptos básicos](#introducción-y-conceptos-básicos) | 1 hora| [Introducción a la ingeniería de datos: Conceptos básicos y principios de la ingeniería de datos.](#introducción-a-la-ingeniería-de-datos-conceptos-básicos-y-principios-de-la-ingeniería-de-datos-page_facing_up) | En la mayoría de las organizaciones, un ingeniero de datos es el responsable principal de integrar, transformar y consolidar datos de varios sistemas de datos estructurados y no estructurados en estructuras adecuadas para crear soluciones de análisis. Un ingeniero de datos de Azure también ayuda a garantizar que las canalizaciones de datos y los almacenes de datos son de alto rendimiento, eficientes, organizados y confiables, dado un conjunto específico de requisitos y restricciones empresariales. | Microsoft |Lectura :page_facing_up:|
+|[01-Introducción y conceptos básicos](#introducción-y-conceptos-básicos) | 1 hora| [Almacenamiento de objetos vs Bloques ](#almacenamiento-de-objetos-vs-bloques---aprender-big-data-page_facing_up) | Vamos a explicar en qué consiste el almacenamiento de objetos vs el almacenamiento de bloques, cuáles son sus diferencias, sus aplicaciones, cómo elegir entre ellos.  | Aprender BIG DATA  |Lectura :page_facing_up:|
+|[01-Introducción y conceptos básicos](#introducción-y-conceptos-básicos) | 1 hora| [Conceptos Básicos de la nube](#conceptos-básicos-de-la-nube---aprender-big-data-page_facing_up) | Guía básica con los conceptos fundamentales. También, vamos a explorar los servicios más comunes, las ventajas que aporta la nube pública y sus tres modelos de implementación. | Aprender BIG DATA  |Lectura :page_facing_up:|
+|[01-Introducción y conceptos básicos](#introducción-y-conceptos-básicos) | 1 hora| [Comparativa herramientas ETL más usadas en la empresa](#comparativa-herramientas-etl-más-usadas-en-la-empresa---aprender-big-data-page_facing_up) | Comparativa de las herramientas ETL empresariales más usadas y comparamos sus pros y contras para tomar la mejor decisión informada al elegir una herramienta para un proyecto. | Aprender BIG DATA  |Lectura :page_facing_up:|
+|[01-Introducción y conceptos básicos](#introducción-y-conceptos-básicos) | 1 hora| [ETL vs ELT ¿Cuáles son sus diferencias? ](#etl-vs-elt-¿cuáles-son-sus-diferencias-page_facing_up) | Exploramos las diferencias y similitudes entre ETL y ELT como métodos para integrar y mover grandes cantidades de datos. | Aprender BIG DATA  |Lectura :page_facing_up:|
+|[01-Introducción y conceptos básicos](#introducción-y-conceptos-básicos) | 1 hora| [¿Qué es el big data? ](#¿qué-es-el-big-data---aprender-big-data-page_facing_up) | Qué es y cómo se define el Big Data. También, aprenderemos qué tipo de datos maneja, sus características e importancia en la actualidad. | Aprender BIG DATA  |Lectura :page_facing_up:|
+|[01-Introducción y conceptos básicos](#introducción-y-conceptos-básicos) | 1 hora| [¿Qué es un Data Warehouse? ](#¿qué-es-un-data-warehouse---aprender-big-data-page_facing_up) | Qué es un Data Warehouse y las claves para comprender qué requisitos considerar al evaluar tu solución de Data Warehousing para Big Data. Además, veremos las ventajas de los DWH en Cloud y las opciones que existen. | Aprender BIG DATA  |Lectura :page_facing_up:|
+|[01-Introducción y conceptos básicos](#introducción-y-conceptos-básicos) | 1 hora| [Data Lake: Definición y Tecnologías](#data-lake-definición-y-tecnologías---aprender-big-data-page_facing_up)|  Qué es un Data Lake en el mundo del Big Data y sus diferencias con los Data Silos y los Data Warehouses. Además, exploraremos las alternativas que existen para construir data lakes con tecnologías modernas y aprovechando los servicios cloud. | Aprender BIG DATA  |Lectura :page_facing_up:|
+|[02-Bases de datos](#bases-de-datos) | 1 hora| [Bases de Datos Relacionales y SQL](#bases-de-datos-relacionales-y-sql---aprender-big-data-page_facing_up)|  Las bases de datos relacionales y el lenguaje SQL son algunos de los conceptos fundamentales que necesitarás aprender. | Aprender BIG DATA  |Lectura :page_facing_up:|
+|[02-Bases de datos](#bases-de-datos) | 1 hora| [Base de datos NoSQL](#base-de-datos-nosql---aprender-big-data-page_facing_up)|  En esta entrada explicaremos las características de las bases de datos NoSQL y sus diferencias con las bases de datos relacionales. Además, veremos sus ventajas y algunas recomendaciones para determinar cuándo y cómo elegir la mejor base de datos NoSQL. | Aprender BIG DATA  |Lectura :page_facing_up:|
+|[02-Bases de datos](#bases-de-datos) | 1 hora| [Conceptos básicos del diseño de una base de datos](#conceptos-básicos-del-diseño-de-una-base-de-datos---microsoft-page_facing_up)|  Una base de datos correctamente diseñada le permite obtener acceso a información actualizada y precisa. Como es esencial tener un diseño correcto para lograr sus objetivos de trabajar con una base de datos, tiene sentido invertir el tiempo necesario para obtener información sobre los principios de un buen diseño. Al final, es mucho más probable que acabe con una base de datos que se ajusta a sus necesidades y que puede adaptarse fácilmente al cambio. | Microsoft  |Lectura :page_facing_up:|
+|[02-Bases de datos](#bases-de-datos) | 6 horas| [SQL Básico](#sql-básico---capacidades-analíticas-y-gobierno-de-información-page_facing_up)| Este curso proporciona una introducción comprensible al lenguaje de las bases de datos relacionales: lenguaje de consulta estructurado (SQL). Contextulizado a la herramientas analíticas del banco | Capacidades analíticas y gobierno de información  |Lectura :page_facing_up:|
+|[03-Herramientas y tecnologías](#herramientas-y-tecnologías) | 3 horas| [Ingesta de datos y mensajería](#ingesta-de-datos-y-mensajería---aprender-big-data-page_facing_up)| Introducción a diferentes herramientas para ingesta de datos y mensajeria como NiFi, Kafka, Pulsar y Flume |  Aprender BIG DATA |Lectura :page_facing_up:|
+|[03-Herramientas y tecnologías](#herramientas-y-tecnologías) | 3 horas| [Procesamiento de datos](#procesamiento-de-datos---aprender-big-data-page_facing_up)| Introducción a diferentes herramientas para procesamiento de datos como Spark, Flink, Hadoop, HDFS, Hive, Impala, Redshift, BigQuery y Synapse |  Aprender BIG DATA |Lectura :page_facing_up:|
+|[03-Herramientas y tecnologías](#herramientas-y-tecnologías) | 12 horas| [:exclamation: Uso avanzado de Impala para conexión con el ecosistema analítico (LZ)](#exclamation-uso-avanzado-de-impala-para-conexión-con-el-ecosistema-analítico-lz--capacidades-analíticas-y-gobierno-de-información-camera)| Uso avanzado de Impala y lineamientos generales para conexión con el ecosistema analítico (LZ) en la organización. |  Capacidades analíticas y Gobierno de información|Videos :camera:|
+|[04-Programación](#programación) | 5 horas| [Introducción a la programación en Python ](#introducción-a-la-programación-en-python---kaggle-page_facing_up-blue_book)|Comience con Python, si no tiene experiencia en codificación. |  Kaggle|Lectura :page_facing_up:|
+|[04-Programación](#programación) | 8 horas| [Introducción a Python ](#introducción-a-python---capacidades-analíticas-y-gobierno-de-información-camera)| En este espacio puedes encontrar las memorias de los cursos dictados de Python, así puedes repasar, aclarar dudas y reforzar conocimientos. |  Capacidades Analíticas y Gobierno de Información|Videos :camera:|
+|[04-Programación](#programación) | 18 horas| [Python básico](#python-básico---skill-hacking-camera)| Con el apoyo de Juan David Escobar Escobar y Blaimir Ospina Cardona, del equipo de Transformación y Soporte de Inteligencia de Negocios, se generó este material para aprender los conceptos básicos de este lenguaje que está dando mucho de qué hablar. | Skill hacking |Videos :camera:|
+|[04-Programación](#programación) | 6 horas| [Aprende todos los fundamentos de Pandas](#aprende-todos-los-fundamentos-de-pandas---kaggle-page_facing_up-blue_book)| Con los recursos disponibles, aprenderá todo sobre pandas, la biblioteca de Python más popular para el análisis de datos. | Kaggle  |Lectura :page_facing_up:|
+|[05-Visualización de datos](#visualización-de-datos) | 1 hora| [Visualización de datos](#visualización-de-datos---capacidades-analíticas-pagefacingup) | El objetivo es presentar los lineamientos generales de visualización de datos con el fin de facilitar la comprensión de la información presentada al público general.|Capacidades analíticas y gobierno de información|Lectura :page_facing_up:|
+|[05-Visualización de datos](#visualización-de-datos) | 1 hora| [Introducción a la compilación con Power BI](#introducción-a-la-compilación-con-power-bi---microsoft-pagefacingup) | Conozca mejor qué es Power BI, incluidos sus bloques de creación y cómo funcionan conjuntamente. | Microsoft |Lectura :page_facing_up:|
+|[05-Visualización de datos](#visualización-de-datos) | 10 horas| [Analista de datos de Power BI](#analista-de-datos-de-power-bi---microsoft-pagefacingup) | El analista de datos de Power BI ofrece información procesable al aprovechar los datos disponibles y aplicar la experiencia en el dominio. El analista de datos de Power BI colabora con las partes interesadas clave en las verticales para identificar los requisitos comerciales, limpia y transforma los datos, y luego diseña y crea modelos de datos mediante el uso de Power BI. El analista de datos de Power BI proporciona un valor comercial significativo a través de visualizaciones de datos fáciles de comprender, permite que otros realicen análisis de autoservicio e implementa y configura soluciones para el consumo.| Microsoft |Lectura :page_facing_up:|
+|[06-Recursos adicionales (opcional) :exclamation: ](#exclamation-recursos-adicionales) | 20 horas|[:exclamation: Productizar la analítica en la organización](#exclamation-productizar-la-analítica-en-la-organización---capacidades-analíticas-y-gobierno-de-información-camera-page_facing_up)|Conceptos y proceso para productizar modelos analíticos en la organización.|Capacidades analíticas y gobierno de información|Videos :camera:|
 
 
 
@@ -59,6 +75,7 @@ No se requiere experiencia previa en ingeniería de datos, ya que el curso está
         - Almacenamiento de datos
         - Spark de Apache
 
+
 ##  [**Almacenamiento de objetos vs Bloques - Aprender BIG DATA :page_facing_up:**](https://aprenderbigdata.com/objetos-vs-bloques/)
 - **Descripción:** Vamos a explicar en qué consiste el almacenamiento de objetos vs el almacenamiento de bloques, cuáles son sus diferencias, sus aplicaciones, cómo elegir entre ellos.
 - **Duración:** 1 hora
@@ -68,6 +85,27 @@ No se requiere experiencia previa en ingeniería de datos, ya que el curso está
     - ¿Qué es el almacenamiento de bloques?
     - Diferencias almacenamiento de objetos vs bloques
         - Escalabilidad
+
+##  [**Conceptos Básicos de la nube - Aprender BIG DATA :page_facing_up:**](https://aprenderbigdata.com/conceptos-basicos-de-la-nube/)
+- **Descripción:** Guía básica con los conceptos fundamentales. También, vamos a explorar los servicios más comunes, las ventajas que aporta la nube pública y sus tres modelos de implementación.
+- **Duración:** 1 hora
+- **Idioma:** Español
+- **Contenido:**
+    - ¿Qué es la Computación en la Nube?
+    - Servicios
+        - Máquinas Virtuales
+        - Contenedores
+        - Serverless
+    - Ventajas de la Computación en la Nube
+    - Modelos de Implementación en la Nube
+        - Nube Privada
+        - Nube Pública
+        - Nube Híbrida
+    - Tipos de Servicios en la Nube
+        - Infraestructura como Servicio (IaaS)
+        - Plataforma como Servicio (PaaS)
+        - Software como Servicio (SaaS)
+    - AWS, Azure o GCP, ¿Cuál elegir?
 
 ##  [**Comparativa herramientas ETL más usadas en la empresa - Aprender BIG DATA :page_facing_up:**](https://aprenderbigdata.com/herramientas-etl/)
 - **Descripción:** Comparativa de las herramientas ETL empresariales más usadas y comparamos sus pros y contras para tomar la mejor decisión informada al elegir una herramienta para un proyecto.
@@ -96,7 +134,7 @@ No se requiere experiencia previa en ingeniería de datos, ya que el curso está
         4. Consideraciones adicionales
 
 
-##  [** ETL vs ELT ¿Cuáles son sus diferencias? :page_facing_up:**](https://aprenderbigdata.com/etl-vs-elt/)
+##  [**ETL vs ELT ¿Cuáles son sus diferencias? :page_facing_up:**](https://aprenderbigdata.com/etl-vs-elt/)
 - **Descripción:**  Exploramos las diferencias y similitudes entre ETL y ELT como métodos para integrar y mover grandes cantidades de datos.
 - **Duración:** 1 hora
 - **Idioma:** Español
@@ -216,9 +254,9 @@ No se requiere experiencia previa en ingeniería de datos, ya que el curso está
     - Refinar el diseño
     - Aplicar las reglas de normalización
 
-## **SQL Básico - Capacidades analíticas :page_facing_up:**
+## **SQL Básico - Capacidades analíticas y gobierno de información :page_facing_up:**
 
-- **Descripción:** Este curso proporciona una introducción comprensiblel al lenguaje de las bases de datos relacionales: lenguaje de consulta estructurado (SQL). Contextulizado a la herramientas analíticas del banco. :exclamation: **Este curso es opcional si desea**:
+- **Descripción:** Este curso proporciona una introducción comprensible al lenguaje de las bases de datos relacionales: lenguaje de consulta estructurado (SQL). Contextulizado a la herramientas analíticas del banco, en este curso aprenderás:
     - Apender el lenguaje de consulta estructurado (SQL) a un nivel intermedio
     - Ser capaz de escribir consultas de recuperación de datos y evaluar el conjunto de resultados.
     - Ser capaz de escribir declaraciones SQL que crean objetos de base de datos.
@@ -346,6 +384,15 @@ No se requiere experiencia previa en ingeniería de datos, ya que el curso está
         - Alternativas a Hadoop
             - Servicios Cloud
         - ¿Cómo integrar Hadoop en tu empresa?
+    - [HDFS](https://aprenderbigdata.com/hdfs/)
+        - Introducción a HDFS
+            - Historia de HDFS
+        - Características
+        - Arquitectura y componentes de HDFS
+            - NameNode
+            - DataNode
+        - Funcionamiento
+        - Seguridad en HDFS
     - [Hive](https://aprenderbigdata.com/apache-hive/)
         - ¿Qué es Apache Hive?
         - Hive como Data Warehouse
@@ -389,7 +436,56 @@ No se requiere experiencia previa en ingeniería de datos, ya que el curso está
         - Gestión
         - Conclusión
 
-[Impala avanzado - Capacidades analíticas](https://bancolombia.sharepoint.com.mcas.ms/sites/co-gin/Documentos%20compartidos/Forms/AllItems.aspx?csf=1&web=1&e=H9guTv&cid=321a00d4%2D947a%2D4eb9%2D9e07%2D6e383b65481f&FolderCTID=0x01200070BB9BC6F8103946BF371889F9FC70BF&id=%2Fsites%2Fco%2Dgin%2FDocumentos%20compartidos%2FBiblioteca%20Wiki%2FHerramientas%2FCursos%20Comunidad%2FCURSOS%20B%C3%81SICOS%2FIMPALA%20AVANZADO%202021&viewid=acb5a76d%2D3882%2D4aea%2D9f81%2D8318adb5b263)
+## **:exclamation: Uso avanzado de Impala para conexión con el ecosistema analítico (LZ)- Capacidades analíticas y Gobierno de información :camera:**
+- **Descripción:** Uso avanzado de Impala y lineamientos generales para conexión con el ecosistema analítico (LZ) en la organización.
+- **Duración:** 12 horas
+-  **idioma:** Español
+- **Contenido:**
+    - [Sesión 1: Introducción y herramientas](https://bancolombia.sharepoint.com.mcas.ms/sites/co-gin/Documentos%20compartidos/Forms/AllItems.aspx?csf=1&web=1&e=H9guTv&cid=321a00d4%2D947a%2D4eb9%2D9e07%2D6e383b65481f&FolderCTID=0x01200070BB9BC6F8103946BF371889F9FC70BF&id=%2Fsites%2Fco%2Dgin%2FDocumentos%20compartidos%2FBiblioteca%20Wiki%2FHerramientas%2FCursos%20Comunidad%2FCURSOS%20B%C3%81SICOS%2FIMPALA%20AVANZADO%202021%2FUso%20avanzado%20de%20Impala%2Ezip&viewid=acb5a76d%2D3882%2D4aea%2D9f81%2D8318adb5b263&parent=%2Fsites%2Fco%2Dgin%2FDocumentos%20compartidos%2FBiblioteca%20Wiki%2FHerramientas%2FCursos%20Comunidad%2FCURSOS%20B%C3%81SICOS%2FIMPALA%20AVANZADO%202021)
+        - Qué es Hadoop
+        - Qué es la LZ
+        - Qué es Impala
+        - Diferencias Impala vs RDBMS
+        - Formas de consultar Impala y configuración de herramientas
+            - HUE
+            - SAS
+            - Spark
+            - ODBC
+                - Python
+                - R
+                - HewNoMore
+                - Algibe Mágico
+                - Algibe Helper
+                - Impala Helper
+                - Sparky-bc
+    - [Sesión 2: Conceptos generales, tablas externas y buenas prácticas](https://bancolombia.sharepoint.com.mcas.ms/sites/co-gin/Documentos%20compartidos/Forms/AllItems.aspx?csf=1&web=1&e=H9guTv&cid=321a00d4%2D947a%2D4eb9%2D9e07%2D6e383b65481f&FolderCTID=0x01200070BB9BC6F8103946BF371889F9FC70BF&id=%2Fsites%2Fco%2Dgin%2FDocumentos%20compartidos%2FBiblioteca%20Wiki%2FHerramientas%2FCursos%20Comunidad%2FCURSOS%20B%C3%81SICOS%2FIMPALA%20AVANZADO%202021%2FUso%20avanzado%20de%20Impala%2Ezip&viewid=acb5a76d%2D3882%2D4aea%2D9f81%2D8318adb5b263&parent=%2Fsites%2Fco%2Dgin%2FDocumentos%20compartidos%2FBiblioteca%20Wiki%2FHerramientas%2FCursos%20Comunidad%2FCURSOS%20B%C3%81SICOS%2FIMPALA%20AVANZADO%202021)
+        - Conceptos generales
+            - Cómo se almacenan los datos en LZ
+            - Qué son las particiones
+            - Estructura mínima de tablas
+            - Métodos de ingestión
+            - Fechas de ingestión
+            - No delete/No Update
+        - Repaso rápido de SQL Impala - Ejemplos prácticos
+            - Explorando bases de datos y sus tablas
+            - Tipos de datos y sentencias SELECT
+            - Algunos operadores importantes
+            - Tipos de Join en Impala
+            - ¿Cuánto pesa la consulta?
+            - Identificando última fecha de ingestión
+            - Creación de tablas formato parquet
+            - Creación de tablas particionadas
+            - Alimentación de particiones en una tabla particionada
+            - Eliminación de tablas y particiones
+        - Creación de tablas externas
+        - Buenas prácticas (teoría y ejemplos prácticos)
+    - [Sesión 3: Taller](https://bancolombia.sharepoint.com.mcas.ms/sites/co-gin/Documentos%20compartidos/Forms/AllItems.aspx?csf=1&web=1&e=H9guTv&cid=321a00d4%2D947a%2D4eb9%2D9e07%2D6e383b65481f&FolderCTID=0x01200070BB9BC6F8103946BF371889F9FC70BF&id=%2Fsites%2Fco%2Dgin%2FDocumentos%20compartidos%2FBiblioteca%20Wiki%2FHerramientas%2FCursos%20Comunidad%2FCURSOS%20B%C3%81SICOS%2FIMPALA%20AVANZADO%202021%2FUso%20avanzado%20de%20Impala%2Ezip&viewid=acb5a76d%2D3882%2D4aea%2D9f81%2D8318adb5b263&parent=%2Fsites%2Fco%2Dgin%2FDocumentos%20compartidos%2FBiblioteca%20Wiki%2FHerramientas%2FCursos%20Comunidad%2FCURSOS%20B%C3%81SICOS%2FIMPALA%20AVANZADO%202021)
+        - Taller práctico: optimiza el query, uso de buenas prácticas
+- [Recursos de las sesiones](https://bancolombia.sharepoint.com.mcas.ms/sites/co-gin/Documentos%20compartidos/Forms/AllItems.aspx?csf=1&web=1&e=H9guTv&cid=321a00d4%2D947a%2D4eb9%2D9e07%2D6e383b65481f&FolderCTID=0x01200070BB9BC6F8103946BF371889F9FC70BF&id=%2Fsites%2Fco%2Dgin%2FDocumentos%20compartidos%2FBiblioteca%20Wiki%2FHerramientas%2FCursos%20Comunidad%2FCURSOS%20B%C3%81SICOS%2FIMPALA%20AVANZADO%202021%2FUso%20avanzado%20de%20Impala%2Ezip&viewid=acb5a76d%2D3882%2D4aea%2D9f81%2D8318adb5b263&parent=%2Fsites%2Fco%2Dgin%2FDocumentos%20compartidos%2FBiblioteca%20Wiki%2FHerramientas%2FCursos%20Comunidad%2FCURSOS%20B%C3%81SICOS%2FIMPALA%20AVANZADO%202021)
+
+
+
+
 
 
 
@@ -454,15 +550,9 @@ No se requiere experiencia previa en ingeniería de datos, ya que el curso está
     - [Renombrar y combinar](https://github.com/JoseMVergara/Ruta_de_aprendizaje_ML/blob/main/Pandas.md#renombrar-y-combinar)
 
 
-Módulo 7: Seguridad y privacidad de datos
-
-Introducción a la seguridad y privacidad de datos, incluyendo los principales riesgos y amenazas.
-Conceptos fundamentales de la seguridad de datos, como la encriptación y la autenticación.
-Herramientas utilizadas en la seguridad y privacidad de datos, como firewalls, VPNs, y software de encriptación.
-
 # **Visualización de datos**
 
-## [Visualización de datos - Capacidades analíticas :page_facing_up:](https://bancolombia.sharepoint.com.mcas.ms/sites/co-gin/Documentos%20compartidos/Forms/AllItems.aspx?FolderCTID=0x01200070BB9BC6F8103946BF371889F9FC70BF&id=%2Fsites%2Fco%2Dgin%2FDocumentos%20compartidos%2FBiblioteca%20Wiki%2FHerramientas%2FCursos%20Comunidad%2FCURSOS%20POWER%20BI%2F%E2%80%8BVISUALIZACI%C3%93N%20DE%20DATOS%2FVisualizaci%C3%B3n%20de%20Datos%2Epdf&viewid=acb5a76d%2D3882%2D4aea%2D9f81%2D8318adb5b263&parent=%2Fsites%2Fco%2Dgin%2FDocumentos%20compartidos%2FBiblioteca%20Wiki%2FHerramientas%2FCursos%20Comunidad%2FCURSOS%20POWER%20BI%2F%E2%80%8BVISUALIZACI%C3%93N%20DE%20DATOS)
+## [Visualización de datos - Capacidades analíticas y gobierno de información :page_facing_up:](https://bancolombia.sharepoint.com.mcas.ms/sites/co-gin/Documentos%20compartidos/Forms/AllItems.aspx?FolderCTID=0x01200070BB9BC6F8103946BF371889F9FC70BF&id=%2Fsites%2Fco%2Dgin%2FDocumentos%20compartidos%2FBiblioteca%20Wiki%2FHerramientas%2FCursos%20Comunidad%2FCURSOS%20POWER%20BI%2F%E2%80%8BVISUALIZACI%C3%93N%20DE%20DATOS%2FVisualizaci%C3%B3n%20de%20Datos%2Epdf&viewid=acb5a76d%2D3882%2D4aea%2D9f81%2D8318adb5b263&parent=%2Fsites%2Fco%2Dgin%2FDocumentos%20compartidos%2FBiblioteca%20Wiki%2FHerramientas%2FCursos%20Comunidad%2FCURSOS%20POWER%20BI%2F%E2%80%8BVISUALIZACI%C3%93N%20DE%20DATOS)
 
 - **Descripción:** El objetivo es presentar los lineamientos generales de visualización de datos con el fin de facilitar la comprensión de la información presentada al público general.
 
@@ -515,7 +605,35 @@ Herramientas utilizadas en la seguridad y privacidad de datos, como firewalls, V
 
 
 
+# **:exclamation Recursos adicionales**
+
+## **:exclamation: Productizar la analítica en la organización - Capacidades analíticas y gobierno de información :camera: :page_facing_up:**
+- **Descripción:** Conceptos y proceso para productizar modelos analíticos en la organización.
+- **Duración:**  20 horas.
+- **Idioma:** Español
+- **Contenido:**
+    - [Modulo 1: Contexto general de productizar](https://bancolombia.sharepoint.com/:f:/r/sites/co-gin/Documentos%20compartidos/Biblioteca%20Wiki/Herramientas/Cursos%20Comunidad/CURSOS%20ANAL%C3%8DTICA/PRODUCTIZAR%20LA%20ANAL%C3%8DTICA%202021/M%C3%93DULO%201%20CONTEXTO%20GENERAL%20DE%20PRODUCTIZAR?csf=1&web=1&e=jpayok) 
+        1. Definición
+        2. Áreas participantes en el 
+        proyecto
+        3. Etapas
+        4. Modelo Operativo
+        5. Historias de Usuario y 
+        comunicación con el equipo de 
+        Tecnología
+        6. Requerimientos para analíticos y 
+        funcionales
+        7. Modelos analíticos online
+        8. Adecuación Ambientes 
+        Intermedios
+    - Modulo 2: Cómo productizar
+        - [Sesión 1](https://bancolombia.sharepoint.com/:v:/r/sites/co-gin/Documentos%20compartidos/Biblioteca%20Wiki/Herramientas/Cursos%20Comunidad/CURSOS%20ANAL%C3%8DTICA/PRODUCTIZAR%20LA%20ANAL%C3%8DTICA%202021/M%C3%93DULO%202%20C%C3%93MO%20PRODUCTIZAR/M%C3%B3dulo%202%20-%20Sesi%C3%B3n%201.mp4?csf=1&web=1&e=2d0mmB)
+        - [Sesión 2](https://bancolombia.sharepoint.com/:v:/r/sites/co-gin/Documentos%20compartidos/Biblioteca%20Wiki/Herramientas/Cursos%20Comunidad/CURSOS%20ANAL%C3%8DTICA/PRODUCTIZAR%20LA%20ANAL%C3%8DTICA%202021/M%C3%93DULO%202%20C%C3%93MO%20PRODUCTIZAR/M%C3%B3dulo%202%20-%20Sesi%C3%B3n%202.mp4?csf=1&web=1&e=4zCEsR)
+        - [Sesión 3](https://bancolombia.sharepoint.com/:v:/r/sites/co-gin/Documentos%20compartidos/Biblioteca%20Wiki/Herramientas/Cursos%20Comunidad/CURSOS%20ANAL%C3%8DTICA/PRODUCTIZAR%20LA%20ANAL%C3%8DTICA%202021/M%C3%93DULO%202%20C%C3%93MO%20PRODUCTIZAR/M%C3%B3dulo%202%20-%20Sesi%C3%B3n%203.mp4?csf=1&web=1&e=r1cdxK)
+        - [Sesión 4 (parte 1)](https://bancolombia.sharepoint.com/:v:/r/sites/co-gin/Documentos%20compartidos/Biblioteca%20Wiki/Herramientas/Cursos%20Comunidad/CURSOS%20ANAL%C3%8DTICA/PRODUCTIZAR%20LA%20ANAL%C3%8DTICA%202021/M%C3%93DULO%202%20C%C3%93MO%20PRODUCTIZAR/M%C3%B3dulo%202%20-%20Sesi%C3%B3n%204%20(parte%201).mp4?csf=1&web=1&e=eWSLgk)
+        - [Sesión 4 (parte 2)](https://bancolombia.sharepoint.com/:v:/r/sites/co-gin/Documentos%20compartidos/Biblioteca%20Wiki/Herramientas/Cursos%20Comunidad/CURSOS%20ANAL%C3%8DTICA/PRODUCTIZAR%20LA%20ANAL%C3%8DTICA%202021/M%C3%93DULO%202%20C%C3%93MO%20PRODUCTIZAR/M%C3%B3dulo%202%20-%20Sesi%C3%B3n%204%20(parte%202).mp4?csf=1&web=1&e=qE6zdZ)
 
 
-[Productizar la analítica - Capacidades analíticas](https://bancolombia.sharepoint.com.mcas.ms/sites/co-gin/Documentos%20compartidos/Forms/AllItems.aspx?csf=1&web=1&e=H9guTv&cid=321a00d4%2D947a%2D4eb9%2D9e07%2D6e383b65481f&FolderCTID=0x01200070BB9BC6F8103946BF371889F9FC70BF&id=%2Fsites%2Fco%2Dgin%2FDocumentos%20compartidos%2FBiblioteca%20Wiki%2FHerramientas%2FCursos%20Comunidad%2FCURSOS%20ANAL%C3%8DTICA%2FPRODUCTIZAR%20LA%20ANAL%C3%8DTICA%202021&viewid=acb5a76d%2D3882%2D4aea%2D9f81%2D8318adb5b263)
+
+
 
