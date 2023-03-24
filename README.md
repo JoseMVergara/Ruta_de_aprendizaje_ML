@@ -59,4 +59,5 @@ Los roles analíticos son una parte vital de cualquier organización moderna que
 - Calendarizaciones
 
 :white_check_mark: Puedes acceder a la ruta de conocimiento para Ingeniero/a de datos haciendo click [aquí](https://github.com/JoseMVergara/Ruta_de_aprendizaje_ML/blob/main/Ing_datos.md).
+
 ---
