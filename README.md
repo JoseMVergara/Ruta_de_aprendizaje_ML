@@ -15,6 +15,8 @@ En este documento encontrarás una breve descripción de cada uno de los roles a
 ## Introducción
 Los roles analíticos son una parte vital de cualquier organización moderna que busque aprovechar el poder de los datos para mejorar sus procesos y tomar decisiones más informadas. Cada uno de los roles analíticos tiene sus propias habilidades y responsabilidades únicas, y juntos trabajan para construir una infraestructura de datos sólida y eficiente que pueda soportar las necesidades de la empresa.
 
+![Roles analíticos y sus responsabilidades](./roles_analiticos.jfif "Roles analíticos y sus responsabilidades")
+
 ## Los Roles Analíticos
 
 **Analista de Datos :artist: :** Un analista de datos es un profesional que trabaja con datos para extraer información y conocimientos valiosos que se pueden utilizar para mejorar los procesos empresariales, la toma de decisiones y la estrategia general de la empresa, es decir, extrae, **transforma y consolida datos** necesarios para responder a tareas ya definidas o hipótesis, analiza e identifica patrones en los datos y asesora en la **toma de decisiones**. El producto de su trabajo es rápido y conciso. Posibles trabajos a realizar:
