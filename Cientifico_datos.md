@@ -20,6 +20,14 @@ Esta ruta de aprendizaje consta de cinco modulos. Cada lección incluye maneras 
 
 ![Última actualización](https://img.shields.io/github/last-commit/JoseMVergara/Ruta_de_aprendizaje_ML?label=%C3%9Altima%20actualizaci%C3%B3n)
 
+Antes de comenzar, queremos asegurarnos de que todos obtengan el máximo provecho de esta ruta de conocimiento. Para eso, te animamos a que realices un assessment o evaluación inicial para identificar sus fortalezas y debilidades en los temas cubiertos en esta ruta.
+
+El assessment les ayudará a evaluar su nivel de dominio en Python, Pandas, estadística y aprendizaje automático. Pueden realizarlo de manera autoadministrada y a su propio ritmo. Les recomendamos que se tomen su tiempo y respondan con honestidad para obtener una evaluación precisa de su nivel actual.
+
+Una vez que hayan completado el assessment, podrán identificar en qué áreas tienen un dominio sólido y en qué áreas pueden necesitar reforzar sus conocimientos. Utilizar esta evaluación como punto de partida les permitirá adaptar su ruta de aprendizaje para enfocarse en los recursos adecuados y avanzar de manera eficiente.
+
+> **Note**: Puedes realizar el assesment dando click [aquí](https://colab.research.google.com/drive/1Gkuzt-dh83gzxXSUxU47q4SVUeguUrS3?usp=sharing)
+
 
 
 | Modulo | Duración |Lección| Descripción | Fuente|Modalidad|
