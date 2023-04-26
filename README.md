@@ -30,7 +30,6 @@ Los roles analíticos son una parte vital de cualquier organización moderna que
 :white_check_mark: Puedes acceder a la ruta de conocimiento para analista de datos haciendo click [aquí](https://github.com/JoseMVergara/Ruta_de_aprendizaje_ML/blob/main/analista_datos.md).
 
 
-
 ---
 **Científico/a de Datos :scientist: :** Un científico de datos es un experto en el análisis estadístico y el aprendizaje automático que utiliza técnicas avanzadas para descubrir patrones y tendencias en los datos que son difíciles de detectar de otra manera. Se encarga de entender las necesidades del negocio para diseñar y ejecutar procesos desde la transformación de datos hasta el modelado de datos creando algoritmos y/o modelos analíticos que resuelvan las necesidades propuestas, realizando análisis personalizados sobre los modelos y comunicando las soluciones y resultados obtenidos de forma practica y eficaz. Posibles trabajos a realizar:​
 
@@ -43,16 +42,6 @@ Los roles analíticos son una parte vital de cualquier organización moderna que
 
 ---
 
-
-
-**Arquitecto/a de Datos :factory_worker: :** Un arquitecto de datos es un profesional que se encarga de diseñar y crear la infraestructura de datos de una empresa. Esto incluye la selección de tecnologías y herramientas para el almacenamiento y procesamiento de datos, y la creación de esquemas y modelos de bases de datos. Identifica los componentes para el desarrollo de una solución de analítica, los componentes más adecuados y eficientes para resolver los problemas de automatización y despliegues de las soluciones. Define con los roles de cada componente e identifica las funcionalidades de cada uno de ellos. Posibles trabajos a realizar:
-
-- Como productizar una solución​
-- Como traer información nueva a la LZ​
-- Como crear visualización optimas para los consumidores
-
-> **Note** : No habrá ruta de conocimiento para Arquitecto de datos dentro de nuestros recursos disponibles. 
----
 **Ingeniero/a de Datos :mechanic: :** Un ingeniero de datos es un profesional que se encarga de construir y mantener la infraestructura de datos de una empresa. Esto incluye la creación y gestión de bases de datos, la integración de datos de múltiples fuentes y la creación de flujos de datos automatizados. Tiene como objetivo la transformación de datos, integrando diversas fuentes. Así como crear herramientas o frameworks que hagan que los datos tengan calidad y que los procesos con estos sean cada vez más automáticos. Posibles trabajos a realizar:​
 
 -   Carga de información automática​
@@ -62,4 +51,27 @@ Los roles analíticos son una parte vital de cualquier organización moderna que
 
 :white_check_mark: Puedes acceder a la ruta de conocimiento para Ingeniero/a de datos haciendo click [aquí](https://github.com/JoseMVergara/Ruta_de_aprendizaje_ML/blob/main/Ing_datos.md).
 
+---
+
+**Ingeniero/a de Machine Learning :astronaut: :** Un ingeniero de Machine Learning es un profesional encargado de diseñar, desarrollar e implementar soluciones basadas en algoritmos de aprendizaje automático. Se centra principalmente en la implementación de soluciones basadas en algoritmos de aprendizaje automático, y se asegura de que esos modelos funcionen de manera efectiva y eficiente en un entorno de producción. El ingeniero de Machine Learning tiene un fuerte enfoque en la implementación de modelos de Machine Learning, y a menudo trabajan en estrecha colaboración con científicos de datos y otros expertos en la materia para asegurarse de que los modelos de Machine Learning estén optimizados para su uso en un entorno empresarial. Posibles trabajos a realizar:
+
+- Identificación de oportunidades de aplicación de algoritmos de aprendizaje automático en diferentes áreas de la empresa
+- Selección de conjuntos de datos relevantes y preparación de los mismos para su uso en modelos de Machine Learning
+- Desarrollo y entrenamiento de modelos de aprendizaje automático utilizando técnicas de aprendizaje supervisado, no supervisado y de refuerzo.
+- Optimización de modelos existentes para mejorar su rendimiento
+- Interpretación de resultados de modelos y recomendación de mejoras
+- Colaboración con equipos de desarrollo y de negocio para la implementación de soluciones basadas en Machine Learning
+- Investigación y experimentación con nuevas técnicas y tecnologías de Machine Learning para mantenerse actualizado en la disciplina.
+
+:white_check_mark: Puedes acceder a la ruta de conocimiento para Ingeniero/a de Machine Learning haciendo click [aquí](https://github.com/JoseMVergara/Ruta_de_aprendizaje_ML/blob/main/Ing_ML.md).
+
+---
+
+**Arquitecto/a de Datos :factory_worker: :** Un arquitecto de datos es un profesional que se encarga de diseñar y crear la infraestructura de datos de una empresa. Esto incluye la selección de tecnologías y herramientas para el almacenamiento y procesamiento de datos, y la creación de esquemas y modelos de bases de datos. Identifica los componentes para el desarrollo de una solución de analítica, los componentes más adecuados y eficientes para resolver los problemas de automatización y despliegues de las soluciones. Define con los roles de cada componente e identifica las funcionalidades de cada uno de ellos. Posibles trabajos a realizar:
+
+- Como productizar una solución​
+- Como traer información nueva a la LZ​
+- Como crear visualización optimas para los consumidores
+
+> **Note** : No habrá ruta de conocimiento para Arquitecto de datos dentro de nuestros recursos disponibles. 
 ---
