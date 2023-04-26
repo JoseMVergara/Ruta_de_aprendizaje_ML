@@ -1,7 +1,7 @@
 {
-  "manifest_version": 1.2,
+  "manifest_version": 1.4,
   "name": "Ruta de conocimiento",
-  "version": "1.2",
+  "version": "1.4",
   "description": "Recursos disponibles para aprender las bases de ciencia de datos y machine learning.",
   "author": "Estrategía e Innovación TI"
 }
