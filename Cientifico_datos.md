@@ -55,16 +55,16 @@ Una vez que hayan completado el assessment, podrán identificar en qué áreas t
 - **Duración:** 1 hora
 - **Idioma:** Español
 - **Contenido:**
-    - [Introducción al Machine learning](https://bancolombia-my.sharepoint.com/:b:/g/personal/josverga_bancolombia_com_co/EbFwKQDD-cxGn5ekUiWJxuABW0aWkOPFLxG-amn0RqhA7A?e=GvQAAJ)
+    - [Introducción al Machine learning](https://bancolombia.sharepoint.com/:b:/s/ArquitecturaEmpresarialEmergente/EcmmJ7kjVp1MmnfVtwWGlEIBQVyJYQJ7X3-K_sFSrLeJrg?e=uUam8A)
         - Fases de desarollo soluciones analíticas
         - ¿Qué es Machine learning e inteligencia artificial?
         - Tipos de datos de entrada
         - Variable respuesta en modelos analíticos
             - ¿Qué es un modelo supervisado?
             - ¿Qué es un modelo no supervisado?
-    - [Conozca los diferentes roles analíticos](https://bancolombia-my.sharepoint.com/:p:/g/personal/josverga_bancolombia_com_co/EXQUS1hURpNJj5yBuojRBAIBJBG_NGhMJ7WYtJsU5gq14w?e=MHjEk0)
+    - [Conozca los diferentes roles analíticos](https://bancolombia.sharepoint.com/:p:/s/ArquitecturaEmpresarialEmergente/EcLivErqULhBvjx-Wh2q-PkBl5hpnPxQm6Ett-DVI4HXaA?e=VtfWvO)
     - [Roles en los datos según microsoft](https://learn.microsoft.com/es-mx/training/modules/data-analytics-microsoft/3-roles)(opcional)
-    - [Ciclo de vida de un proyecto de analítica de datos](https://bancolombia-my.sharepoint.com/:p:/g/personal/josverga_bancolombia_com_co/ESqbP9ycI9VKko4FlxTB9-gBF_ySUqL5AtueEzI64lN42Q?e=F7SG0t)
+    - [Ciclo de vida de un proyecto de analítica de datos](https://bancolombia.sharepoint.com/:p:/s/ArquitecturaEmpresarialEmergente/EWzU1gnmo95Lh6iYdjkmCyUBCej8ikbc2FUqjZS0IpmwAQ?e=vrG1DU)
         - Introducción
         - Metodología CRISP-DM
             - Entendimiento de negocio
@@ -74,7 +74,7 @@ Una vez que hayan completado el assessment, podrán identificar en qué áreas t
             - Evaluación
             - Despliegue
     - Recursos adicionales:
-        - [Conozca el plan de formación en Ciencia de datos de Bancolombia](https://bancolombia-my.sharepoint.com/:p:/g/personal/josverga_bancolombia_com_co/Ea1U0gMDu25JrxjgOv6FjX8BE3hVISE_AS-uP-PJXzGdmA?e=3LwQ0C)
+        - [Conozca el plan de formación en Ciencia de datos de Bancolombia](https://bancolombia.sharepoint.com/:p:/s/ArquitecturaEmpresarialEmergente/EedTs8pn6m9Bs8ZWslN3ZnsBmRLm_Xon3XLtk7Ji2VH25g?e=u1ZABV)
 
 # **Python**
 

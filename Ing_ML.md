@@ -44,16 +44,16 @@ No se requiere experiencia previa en Machine Learning, aunque se recomienda tene
 - **Duración:** 1 hora
 - **Idioma:** Español
 - **Contenido:**
-    - [Introducción al Machine learning](https://bancolombia-my.sharepoint.com/:b:/g/personal/josverga_bancolombia_com_co/EbFwKQDD-cxGn5ekUiWJxuABW0aWkOPFLxG-amn0RqhA7A?e=GvQAAJ)
+    - [Introducción al Machine learning](https://bancolombia.sharepoint.com/:b:/s/ArquitecturaEmpresarialEmergente/EcmmJ7kjVp1MmnfVtwWGlEIBQVyJYQJ7X3-K_sFSrLeJrg?e=uUam8A)
         - Fases de desarollo soluciones analíticas
         - ¿Qué es Machine learning e inteligencia artificial?
         - Tipos de datos de entrada
         - Variable respuesta en modelos analíticos
             - ¿Qué es un modelo supervisado?
             - ¿Qué es un modelo no supervisado?
-    - [Conozca los diferentes roles analíticos](https://bancolombia-my.sharepoint.com/:p:/g/personal/josverga_bancolombia_com_co/EXQUS1hURpNJj5yBuojRBAIBJBG_NGhMJ7WYtJsU5gq14w?e=MHjEk0)
+    - [Conozca los diferentes roles analíticos](https://bancolombia.sharepoint.com/:p:/s/ArquitecturaEmpresarialEmergente/EcLivErqULhBvjx-Wh2q-PkBl5hpnPxQm6Ett-DVI4HXaA?e=VtfWvO)
     - [Roles en los datos según microsoft](https://learn.microsoft.com/es-mx/training/modules/data-analytics-microsoft/3-roles)(opcional)
-    - [Ciclo de vida de un proyecto de analítica de datos](https://bancolombia-my.sharepoint.com/:p:/g/personal/josverga_bancolombia_com_co/ESqbP9ycI9VKko4FlxTB9-gBF_ySUqL5AtueEzI64lN42Q?e=F7SG0t)
+    - [Ciclo de vida de un proyecto de analítica de datos](https://bancolombia.sharepoint.com/:p:/s/ArquitecturaEmpresarialEmergente/EWzU1gnmo95Lh6iYdjkmCyUBCej8ikbc2FUqjZS0IpmwAQ?e=vrG1DU)
         - Introducción
         - Metodología CRISP-DM
             - Entendimiento de negocio
@@ -260,7 +260,7 @@ No se requiere experiencia previa en Machine Learning, aunque se recomienda tene
     - [Pila de infraestructura de MLOps](https://ml-ops.org/content/state-of-mlops)
     
 
-## **[Un marco para la entrega continua y la automatización del aprendizaje automático - Google :page_facing_up:](https://bancolombia-my.sharepoint.com/:b:/g/personal/josverga_bancolombia_com_co/ERk4jlqMoetMqCkQVP_SZmoBm7G8jr2_QcUY3DLnyPKoFA?e=f5i4nn)**
+## **[Un marco para la entrega continua y la automatización del aprendizaje automático - Google :page_facing_up:](https://bancolombia.sharepoint.com/:b:/s/ArquitecturaEmpresarialEmergente/EV5opL42fLFEtpY3SF11TrEBhP6PmKDHvIUr5qS57u4JHg?e=j1LCFO)**
 - **Descripción:** El documento actual profundiza en los temas de escala y automatización para ilustrar los requisitos para construir y poner en funcionamiento los sistemas ML. La escala se refiere a la medida en que usa los servicios de ML administrados en la nube que escalan con grandes cantidades de datos y grandes cantidades de procesamiento de datos y trabajos de ML, con una sobrecarga operativa reducida. La automatización se refiere a la medida en que puede implementar, ejecutar y operar la tecnología para el procesamiento de datos y las canalizaciones de ML en producción de manera eficiente, frecuente y confiable.
 - **Duración:**  4 horas.
 - **Idioma:** Inglés
