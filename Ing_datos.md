@@ -606,7 +606,7 @@ No se requiere experiencia previa en ingeniería de datos, ya que el curso está
 
 
 
-# **:exclamation Recursos adicionales**
+# **:exclamation: Recursos adicionales**
 
 ## **:exclamation: Productizar la analítica en la organización - Capacidades analíticas y gobierno de información :camera: :page_facing_up:**
 - **Descripción:** Conceptos y proceso para productizar modelos analíticos en la organización.
