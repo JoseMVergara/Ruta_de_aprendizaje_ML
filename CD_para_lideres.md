@@ -111,7 +111,7 @@ No se requiere experiencia previa en ciencia de datos. Lo importante es tener la
     - Limpieza y procesamiento de los datos​
     - Transformación de datos
 
-# **[Visualización de datos]((https://bancolombia.sharepoint.com.mcas.ms/sites/co-gin/Documentos%20compartidos/Forms/AllItems.aspx?FolderCTID=0x01200070BB9BC6F8103946BF371889F9FC70BF&id=%2Fsites%2Fco%2Dgin%2FDocumentos%20compartidos%2FBiblioteca%20Wiki%2FHerramientas%2FCursos%20Comunidad%2FCURSOS%20POWER%20BI%2F%E2%80%8BVISUALIZACI%C3%93N%20DE%20DATOS%2FVisualizaci%C3%B3n%20de%20Datos%2Epdf&viewid=acb5a76d%2D3882%2D4aea%2D9f81%2D8318adb5b263&parent=%2Fsites%2Fco%2Dgin%2FDocumentos%20compartidos%2FBiblioteca%20Wiki%2FHerramientas%2FCursos%20Comunidad%2FCURSOS%20POWER%20BI%2F%E2%80%8BVISUALIZACI%C3%93N%20DE%20DATOS))**
+# **[Visualización de datos](https://bancolombia.sharepoint.com.mcas.ms/sites/co-gin/Documentos%20compartidos/Forms/AllItems.aspx?FolderCTID=0x01200070BB9BC6F8103946BF371889F9FC70BF&id=%2Fsites%2Fco%2Dgin%2FDocumentos%20compartidos%2FBiblioteca%20Wiki%2FHerramientas%2FCursos%20Comunidad%2FCURSOS%20POWER%20BI%2F%E2%80%8BVISUALIZACI%C3%93N%20DE%20DATOS%2FVisualizaci%C3%B3n%20de%20Datos%2Epdf&viewid=acb5a76d%2D3882%2D4aea%2D9f81%2D8318adb5b263&parent=%2Fsites%2Fco%2Dgin%2FDocumentos%20compartidos%2FBiblioteca%20Wiki%2FHerramientas%2FCursos%20Comunidad%2FCURSOS%20POWER%20BI%2F%E2%80%8BVISUALIZACI%C3%93N%20DE%20DATOS)**
 - **Descripción:** El objetivo es presentar los lineamientos generales de visualización de datos con el fin de facilitar la comprensión de la información presentada al público general.
 - **Duración:** 1 hora
 - **Idioma:** Español
@@ -123,17 +123,17 @@ No se requiere experiencia previa en ciencia de datos. Lo importante es tener la
     - Focos de atención
     - Storytelling
 
-# **[Machine Learning - Bancolombia]((https://bancolombia.sharepoint.com/:b:/s/ArquitecturaEmpresarialEmergente/EcmmJ7kjVp1MmnfVtwWGlEIBQVyJYQJ7X3-K_sFSrLeJrg?e=uUam8A))**
+# **[Machine Learning - Bancolombia](https://bancolombia.sharepoint.com/:b:/s/ArquitecturaEmpresarialEmergente/EcmmJ7kjVp1MmnfVtwWGlEIBQVyJYQJ7X3-K_sFSrLeJrg?e=uUam8A)**
 - **Descripción:** Exploraremos las diferentes fases de desarrollo de soluciones analíticas, comprenderemos los conceptos de machine learning e inteligencia artificial, y discutiremos los tipos de datos de entrada y las variables de respuesta en los modelos analíticos.
 - **Duración:** 1 hora
 - **Idioma:** Español
 - **Contenido:**
-        - Fases de desarollo soluciones analíticas
-        - ¿Qué es Machine learning e inteligencia artificial?
-        - Tipos de datos de entrada
-        - Variable respuesta en modelos analíticos
-            - ¿Qué es un modelo supervisado?
-            - ¿Qué es un modelo no supervisado?
+    - Fases de desarollo soluciones analíticas
+    - ¿Qué es Machine learning e inteligencia artificial?
+    - Tipos de datos de entrada
+    - Variable respuesta en modelos analíticos
+        - ¿Qué es un modelo supervisado?
+        - ¿Qué es un modelo no supervisado?
 
 # **[Deep Learning - Estrategia e Innovación TI](https://bancolombia.sharepoint.com/:p:/r/sites/ArquitecturaEmpresarialEmergente/Documentos%20compartidos/General/Documentos/Recursos/rutas%20de%20conocimiento/Deep%20learning%20y%20redes%20neuronales.pptx?d=w011dadfc497d40da88b1a7b2f201bf66&csf=1&web=1&e=vfo91N)**
 - **Descripción:** Exploraremos los fundamentos del Deep Learning, los componentes de una red neuronal, los perceptrones multicapa y cómo las redes neuronales aprenden. Además, discutiremos los tipos más comunes de redes neuronales y sus aplicaciones, las ventajas del Deep Learning, así como los desafíos y consideraciones asociados.
