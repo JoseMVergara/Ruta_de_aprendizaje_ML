@@ -79,4 +79,5 @@ Los roles analíticos son una parte vital de cualquier organización moderna que
 **Ciencia de datos para líderes:** ¿Te gustaría comprender mejor qué es la ciencia de datos y cómo puede ayudarte a tomar decisiones estratégicas fundamentadas en información concreta? Este programa te ofrece una oportunidad única para adquirir los conocimientos necesarios y explorar las herramientas clave de la ciencia de datos, sin requerir una experiencia técnica previa. Nuestro objetivo es proporcionarte una visión panorámica de la ciencia de datos y proporcionarte herramientas prácticas que puedas aplicar de inmediato en tu rol de liderazgo.
 
 :white_check_mark: Puedes acceder a la ruta de conocimiento de Ciencia de datos para líderes haciendo click [aquí](https://github.com/JoseMVergara/Ruta_de_aprendizaje_ML/blob/main/CD_para_lideres.md).
+
 ---
