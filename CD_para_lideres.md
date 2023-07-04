@@ -21,8 +21,8 @@ No se requiere experiencia previa en ciencia de datos. Lo importante es tener la
 |----------- |----------- |----------- |----------- |
 |01-Fundamentos de Ciencia de datos | 1 hora| :construction: (En construcción)| Estrategia e Innovación TI |
 |02-Gobierno de datos | 1 hora|¿Te interesa aprender sobre el gobierno de datos y su importancia en el manejo efectivo de la información en las organizaciones? Este curso te proporcionará los conocimientos fundamentales necesarios para establecer un sólido marco de gobierno de datos. | Estrategia e Innovación TI |
-|03-Metodologías | 1 hora| Exploraremos qué es un proyecto basado en datos, las metodologías más conocidas para gestionar estos proyectos y el enfoque de toma de decisiones basado en datos (DDDM).| Estrategia e Innovación TI |
-|04-Diseño experimental | 1 hora| :construction: (En construcción)| Estrategia e Innovación TI |
+|03-Metodologías para proyectos basados en datos | 1 hora| Exploraremos qué es un proyecto basado en datos, las metodologías más conocidas para gestionar estos proyectos y el enfoque de toma de decisiones basado en datos (DDDM).| Estrategia e Innovación TI |
+|04-Diseño de experimentos enfocados a Inteligencia Artificial| 1 hora|Exploraremos los principios fundamentales del diseño de experimentos y cómo aplicarlos en el contexto de la Inteligencia Artificial. También discutiremos diferentes tipos de pruebas, como A/B Testing, Causal AI y otros enfoques.| Estrategia e Innovación TI |
 |05-Estadística | 1 hora| ¿Te gustaría comprender los conceptos fundamentales de estadística y cómo aplicarlos en tus análisis de datos? En este curso, exploraremos los principales temas que te permitirán interpretar y sacar conclusiones significativas a partir de conjuntos de datos.| Estrategia e Innovación TI |
 |06-Programación para Ciencia de datos | 1 hora| En este curso, exploraremos las bibliotecas esenciales que te permitirán manipular datos, realizar análisis y construir modelos predictivos.| Estrategia e Innovación TI |
 |07-Manipulación de datos | 1 hora| La manipulación de datos es fundamental en el análisis de datos, ya que los datos sin procesar no suelen estar en el formato adecuado para su análisis. Aprenderás por qué es crucial la manipulación de datos para obtener información valiosa y tomar decisiones fundamentadas.| Estrategia e Innovación TI |
@@ -60,7 +60,7 @@ No se requiere experiencia previa en ciencia de datos. Lo importante es tener la
     - Mejora continua
 
 
-# **Metodologías**
+# **[Metodologías para proyectos basados en datos - Estrategia e Innovación TI](https://bancolombia.sharepoint.com/:p:/r/sites/ArquitecturaEmpresarialEmergente/Documentos%20compartidos/General/Documentos/Recursos/rutas%20de%20conocimiento/Metodologias.pptx?d=w8aa4379977df4dd6b6c2e461e0d2c998&csf=1&web=1&e=luRxep)**
 - **Descripción:** Exploraremos qué es un proyecto basado en datos, las metodologías más conocidas para gestionar estos proyectos y el enfoque de toma de decisiones basado en datos (DDDM).
 - **Duración:** 1 hora
 - **Idioma:** Español
@@ -71,11 +71,17 @@ No se requiere experiencia previa en ciencia de datos. Lo importante es tener la
         - CRISP-DM​
     - DDDM – Data Driven Decision Making​
 
-# **Diseño Experimental - :construction: (En construcción)**
-- **Descripción:** 
+# **[Diseño de experimentos enfocados a Inteligencia Artificial - Estrategia e Innovación TI](https://bancolombia.sharepoint.com/:p:/r/sites/ArquitecturaEmpresarialEmergente/Documentos%20compartidos/General/Documentos/Recursos/rutas%20de%20conocimiento/Dise%C3%B1o%20de%20experimentos.pptx?d=wc60b2e46090a4832b5497564498dced0&csf=1&web=1&e=ZCJQLG)**
+- **Descripción:** Exploraremos los principios fundamentales del diseño de experimentos y cómo aplicarlos en el contexto de la Inteligencia Artificial. También discutiremos diferentes tipos de pruebas, como A/B Testing, Causal AI y otros enfoques.
 - **Duración:** 1 hora
 - **Idioma:** Español
 - **Contenido:**
+    - Principios de diseño de experimentos
+    - Tipos de Pruebas
+        - A/B Testing
+        - Causal AI
+        - Otros
+
 
 # **[Estadística - Estrategia e Innovación TI](https://bancolombia.sharepoint.com/:p:/r/sites/ArquitecturaEmpresarialEmergente/Documentos%20compartidos/General/Documentos/Recursos/rutas%20de%20conocimiento/Estad%C3%ADstica.pptx?d=w3e5beb3521d3413aa5029abe669a3c2e&csf=1&web=1&e=rlEFrT)**
 - **Descripción:** ¿Te gustaría comprender los conceptos fundamentales de estadística y cómo aplicarlos en tus análisis de datos? En este curso, exploraremos los principales temas que te permitirán interpretar y sacar conclusiones significativas a partir de conjuntos de datos.
