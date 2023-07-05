@@ -30,7 +30,7 @@ No se requiere experiencia previa en ciencia de datos. Lo importante es tener la
 |09-Machine Learning | 1 hora| Exploraremos las diferentes fases de desarrollo de soluciones analíticas, comprenderemos los conceptos de machine learning e inteligencia artificial, y discutiremos los tipos de datos de entrada y las variables de respuesta en los modelos analíticos.| Bancolombia |
 |10-Deep Learning | 1 hora|Exploraremos los fundamentos del Deep Learning, los componentes de una red neuronal, los perceptrones multicapa y cómo las redes neuronales aprenden. Además, discutiremos los tipos más comunes de redes neuronales y sus aplicaciones, las ventajas del Deep Learning, así como los desafíos y consideraciones asociados. | Estrategia e Innovación TI |
 |11-Reinforcement Learning | 1 hora| Exploraremos los conceptos fundamentales del aprendizaje por refuerzo, los componentes clave, el proceso de toma de decisiones, las funciones de valor y política, los algoritmos de aprendizaje y las aplicaciones, así como los retos y consideraciones asociados.| Estrategia e Innovación TI |
-|12-Arquitectura de datos | 1 hora|:construction: (En construcción) | Estrategia e Innovación TI |
+|12-Arquitectura de datos | 1 hora|Exploraremos los fundamentos de la arquitectura de datos y cómo diseñar sistemas eficientes y seguros para gestionar y almacenar información. Nos enfocaremos en los modelos de datos, la integración de datos, el almacenamiento de datos, la seguridad y privacidad de datos, así como la escalabilidad y el desempeño.| Estrategia e Innovación TI |
 |13-¿Cómo se hace Analítica e Inteligencia Artificial en Bancolombia? | 1 hora|:construction: (En construcción) | Estrategia e Innovación TI |
 
 
@@ -167,17 +167,24 @@ No se requiere experiencia previa en ciencia de datos. Lo importante es tener la
     - Aplicaciones del aprendizaje por refuerzo​
     - Retos y consideraciones
 
-# **Arquitectura de datos - :construction: (En construcción)**
-- **Descripción:** 
+# **[Arquitectura de datos - Estrategia e Innovación TI](https://bancolombia.sharepoint.com/:p:/r/sites/ArquitecturaEmpresarialEmergente/Documentos%20compartidos/General/Documentos/Recursos/rutas%20de%20conocimiento/Arquitectura%20de%20datos.pptx?d=w124a69d8ff834b8da3d3e8d9e8b46182&csf=1&web=1&e=NwAcAL)**
+- **Descripción:** Exploraremos los fundamentos de la arquitectura de datos y cómo diseñar sistemas eficientes y seguros para gestionar y almacenar información. Nos enfocaremos en los modelos de datos, la integración de datos, el almacenamiento de datos, la seguridad y privacidad de datos, así como la escalabilidad y el desempeño.
 - **Duración:** 1 hora
 - **Idioma:** Español
 - **Contenido:**
+    - Modelos de datos
+    - Integración de datos
+    - Almacenamiento de datos
+    - Seguridad y privacidad de datos
+    - Escalabilidad y desempeño
 
 # **¿Cómo se hace Analítica e Inteligencia Artificial en Bancolombia?- :construction: (En construcción)**
 - **Descripción:** 
 - **Duración:** 1 hora
 - **Idioma:** Español
 - **Contenido:**
+
+
 
 
 
