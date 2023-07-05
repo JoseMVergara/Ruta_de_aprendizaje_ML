@@ -15,11 +15,10 @@ No se requiere experiencia previa en ciencia de datos. Lo importante es tener la
 
 ![Última actualización](https://img.shields.io/github/last-commit/JoseMVergara/Ruta_de_aprendizaje_ML?label=%C3%9Altima%20actualizaci%C3%B3n)
 
-
+<!-- |01-Fundamentos de Ciencia de datos | 1 hora| :construction: (En construcción)| Estrategia e Innovación TI | -->
 
 | Lección | Duración |Descripción | Fuente|
 |----------- |----------- |----------- |----------- |
-<!-- |01-Fundamentos de Ciencia de datos | 1 hora| :construction: (En construcción)| Estrategia e Innovación TI | -->
 |01-Gobierno de datos | 1 hora|¿Te interesa aprender sobre el gobierno de datos y su importancia en el manejo efectivo de la información en las organizaciones? Este curso te proporcionará los conocimientos fundamentales necesarios para establecer un sólido marco de gobierno de datos. | Estrategia e Innovación TI |
 |02-Metodologías para proyectos basados en datos | 1 hora| Exploraremos qué es un proyecto basado en datos, las metodologías más conocidas para gestionar estos proyectos y el enfoque de toma de decisiones basado en datos (DDDM).| Estrategia e Innovación TI |
 |03-Diseño de experimentos enfocados a Inteligencia Artificial| 1 hora|Exploraremos los principios fundamentales del diseño de experimentos y cómo aplicarlos en el contexto de la Inteligencia Artificial. También discutiremos diferentes tipos de pruebas, como A/B Testing, Causal AI y otros enfoques.| Estrategia e Innovación TI |
