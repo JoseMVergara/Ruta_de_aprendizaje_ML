@@ -19,28 +19,28 @@ No se requiere experiencia previa en ciencia de datos. Lo importante es tener la
 
 | Lección | Duración |Descripción | Fuente|
 |----------- |----------- |----------- |----------- |
-|01-Fundamentos de Ciencia de datos | 1 hora| :construction: (En construcción)| Estrategia e Innovación TI |
-|02-Gobierno de datos | 1 hora|¿Te interesa aprender sobre el gobierno de datos y su importancia en el manejo efectivo de la información en las organizaciones? Este curso te proporcionará los conocimientos fundamentales necesarios para establecer un sólido marco de gobierno de datos. | Estrategia e Innovación TI |
-|03-Metodologías para proyectos basados en datos | 1 hora| Exploraremos qué es un proyecto basado en datos, las metodologías más conocidas para gestionar estos proyectos y el enfoque de toma de decisiones basado en datos (DDDM).| Estrategia e Innovación TI |
-|04-Diseño de experimentos enfocados a Inteligencia Artificial| 1 hora|Exploraremos los principios fundamentales del diseño de experimentos y cómo aplicarlos en el contexto de la Inteligencia Artificial. También discutiremos diferentes tipos de pruebas, como A/B Testing, Causal AI y otros enfoques.| Estrategia e Innovación TI |
-|05-Estadística | 1 hora| ¿Te gustaría comprender los conceptos fundamentales de estadística y cómo aplicarlos en tus análisis de datos? En este curso, exploraremos los principales temas que te permitirán interpretar y sacar conclusiones significativas a partir de conjuntos de datos.| Estrategia e Innovación TI |
-|06-Programación para Ciencia de datos | 1 hora| En este curso, exploraremos las bibliotecas esenciales que te permitirán manipular datos, realizar análisis y construir modelos predictivos.| Estrategia e Innovación TI |
-|07-Manipulación de datos | 1 hora| La manipulación de datos es fundamental en el análisis de datos, ya que los datos sin procesar no suelen estar en el formato adecuado para su análisis. Aprenderás por qué es crucial la manipulación de datos para obtener información valiosa y tomar decisiones fundamentadas.| Estrategia e Innovación TI |
-|08-Visualización de datos | 1 hora|El objetivo es presentar los lineamientos generales de visualización de datos con el fin de facilitar la comprensión de la información presentada al público general. | Bancolombia |
-|09-Machine Learning | 1 hora| Exploraremos las diferentes fases de desarrollo de soluciones analíticas, comprenderemos los conceptos de machine learning e inteligencia artificial, y discutiremos los tipos de datos de entrada y las variables de respuesta en los modelos analíticos.| Bancolombia |
-|10-Deep Learning | 1 hora|Exploraremos los fundamentos del Deep Learning, los componentes de una red neuronal, los perceptrones multicapa y cómo las redes neuronales aprenden. Además, discutiremos los tipos más comunes de redes neuronales y sus aplicaciones, las ventajas del Deep Learning, así como los desafíos y consideraciones asociados. | Estrategia e Innovación TI |
-|11-Reinforcement Learning | 1 hora| Exploraremos los conceptos fundamentales del aprendizaje por refuerzo, los componentes clave, el proceso de toma de decisiones, las funciones de valor y política, los algoritmos de aprendizaje y las aplicaciones, así como los retos y consideraciones asociados.| Estrategia e Innovación TI |
-|12-Arquitectura de datos | 1 hora|Exploraremos los fundamentos de la arquitectura de datos y cómo diseñar sistemas eficientes y seguros para gestionar y almacenar información. Nos enfocaremos en los modelos de datos, la integración de datos, el almacenamiento de datos, la seguridad y privacidad de datos, así como la escalabilidad y el desempeño.| Estrategia e Innovación TI |
-|13-¿Cómo se hace Analítica e Inteligencia Artificial en Bancolombia? | 1 hora|:construction: (En construcción) | Estrategia e Innovación TI |
+<!-- |01-Fundamentos de Ciencia de datos | 1 hora| :construction: (En construcción)| Estrategia e Innovación TI | -->
+|01-Gobierno de datos | 1 hora|¿Te interesa aprender sobre el gobierno de datos y su importancia en el manejo efectivo de la información en las organizaciones? Este curso te proporcionará los conocimientos fundamentales necesarios para establecer un sólido marco de gobierno de datos. | Estrategia e Innovación TI |
+|02-Metodologías para proyectos basados en datos | 1 hora| Exploraremos qué es un proyecto basado en datos, las metodologías más conocidas para gestionar estos proyectos y el enfoque de toma de decisiones basado en datos (DDDM).| Estrategia e Innovación TI |
+|03-Diseño de experimentos enfocados a Inteligencia Artificial| 1 hora|Exploraremos los principios fundamentales del diseño de experimentos y cómo aplicarlos en el contexto de la Inteligencia Artificial. También discutiremos diferentes tipos de pruebas, como A/B Testing, Causal AI y otros enfoques.| Estrategia e Innovación TI |
+|04-Estadística | 1 hora| ¿Te gustaría comprender los conceptos fundamentales de estadística y cómo aplicarlos en tus análisis de datos? En este curso, exploraremos los principales temas que te permitirán interpretar y sacar conclusiones significativas a partir de conjuntos de datos.| Estrategia e Innovación TI |
+|05-Programación para Ciencia de datos | 1 hora| En este curso, exploraremos las bibliotecas esenciales que te permitirán manipular datos, realizar análisis y construir modelos predictivos.| Estrategia e Innovación TI |
+|06-Manipulación de datos | 1 hora| La manipulación de datos es fundamental en el análisis de datos, ya que los datos sin procesar no suelen estar en el formato adecuado para su análisis. Aprenderás por qué es crucial la manipulación de datos para obtener información valiosa y tomar decisiones fundamentadas.| Estrategia e Innovación TI |
+|07-Visualización de datos | 1 hora|El objetivo es presentar los lineamientos generales de visualización de datos con el fin de facilitar la comprensión de la información presentada al público general. | Bancolombia |
+|08-Machine Learning | 1 hora| Exploraremos las diferentes fases de desarrollo de soluciones analíticas, comprenderemos los conceptos de machine learning e inteligencia artificial, y discutiremos los tipos de datos de entrada y las variables de respuesta en los modelos analíticos.| Bancolombia |
+|09-Deep Learning | 1 hora|Exploraremos los fundamentos del Deep Learning, los componentes de una red neuronal, los perceptrones multicapa y cómo las redes neuronales aprenden. Además, discutiremos los tipos más comunes de redes neuronales y sus aplicaciones, las ventajas del Deep Learning, así como los desafíos y consideraciones asociados. | Estrategia e Innovación TI |
+|10-Reinforcement Learning | 1 hora| Exploraremos los conceptos fundamentales del aprendizaje por refuerzo, los componentes clave, el proceso de toma de decisiones, las funciones de valor y política, los algoritmos de aprendizaje y las aplicaciones, así como los retos y consideraciones asociados.| Estrategia e Innovación TI |
+|11-Arquitectura de datos | 1 hora|Exploraremos los fundamentos de la arquitectura de datos y cómo diseñar sistemas eficientes y seguros para gestionar y almacenar información. Nos enfocaremos en los modelos de datos, la integración de datos, el almacenamiento de datos, la seguridad y privacidad de datos, así como la escalabilidad y el desempeño.| Estrategia e Innovación TI |
+|12-¿Cómo se hace Analítica e Inteligencia Artificial en Bancolombia? | 1 hora|:construction: (En construcción) | Estrategia e Innovación TI |
 
 
 
 
-# **Fundamentos de Ciencia de datos - :construction: (En construcción)**
+<!-- # **Fundamentos de Ciencia de datos - :construction: (En construcción)**
 - **Descripción:** 
 - **Duración:** 1 hora
 - **Idioma:** Español
-- **Contenido:**
+- **Contenido:** -->
 
 
 # **[Gobierno de datos - Estrategia e Innovación TI](https://bancolombia.sharepoint.com/:p:/r/sites/ArquitecturaEmpresarialEmergente/Documentos%20compartidos/General/Documentos/Recursos/rutas%20de%20conocimiento/Gobierno%20de%20datos.pptx?d=wb96e9f492b694fa49306d3c3a01bcaba&csf=1&web=1&e=6PScse)**
