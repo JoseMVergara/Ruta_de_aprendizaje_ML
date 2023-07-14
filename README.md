@@ -15,7 +15,7 @@ En este documento encontrarás una breve descripción de cada uno de los roles a
 ## Introducción
 Los roles analíticos son una parte vital de cualquier organización moderna que busque aprovechar el poder de los datos para mejorar sus procesos y tomar decisiones más informadas. Cada uno de los roles analíticos tiene sus propias habilidades y responsabilidades únicas, y juntos trabajan para construir una infraestructura de datos sólida y eficiente que pueda soportar las necesidades de la empresa.
 
-![Roles analíticos y sus responsabilidades](./roles_analiticos.jfif "Roles analíticos y sus responsabilidades")
+![Roles analíticos y sus responsabilidades](./images/roles_analiticos.jfif "Roles analíticos y sus responsabilidades")
 
 ## Los Roles Analíticos
 
@@ -74,6 +74,11 @@ Los roles analíticos son una parte vital de cualquier organización moderna que
 - Como crear visualización optimas para los consumidores
 
 > **Note** : No habrá ruta de conocimiento para Arquitecto de datos dentro de nuestros recursos disponibles. 
+
+Sin embargo, puedes encontrar una ruta de conocimientos de ciencia de datos para comprender cómo aprovechar la información disponible para tomar decisiones más informadas en tus proyectos de arquitectura.
+
+:white_check_mark: Puedes acceder a la ruta de conocimiento de Ciencia de datos para Arquitectos haciendo click [aquí](https://github.com/Estrategia-e-innovacion-de-TI/Ruta-de-aprendizaje-Ciencia-de-Datos/blob/main/Resources/CD_para_arquitectos.md)
+
 ---
 
 **Ciencia de datos para líderes:** ¿Te gustaría comprender mejor qué es la ciencia de datos y cómo puede ayudarte a tomar decisiones estratégicas fundamentadas en información concreta? Este programa te ofrece una oportunidad única para adquirir los conocimientos necesarios y explorar las herramientas clave de la ciencia de datos, sin requerir una experiencia técnica previa. Nuestro objetivo es proporcionarte una visión panorámica de la ciencia de datos y proporcionarte herramientas prácticas que puedas aplicar de inmediato en tu rol de liderazgo.
